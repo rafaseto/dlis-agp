@@ -1,0 +1,1088 @@
+ POCO           :   3CSMC0011  AL       
+                                                                                                                                     
+ IDENTIFICADOR  :   SC24L44NO59C33B                         BACIA          :   ALAGOAS (T)                                           
+ CAMPO          :   CIDADE DE S.MIGUEL D                    DATUM          :   ARATU                                                 
+ LATITUDE       :    -9.81332 (   -9  48 48.0)              LONGITUDE      :   -36.13154 (  -36   7 53.5)                            
+ MERID.CENTRAL  :   - 39                                    COORD.UTM FUNDO:    8913871.0S  814684.8W                                
+ DISTRITO       :   E&P-SE/AL                               ESTADO         :   AL                                                    
+ MUNICIPIO      :   S MIG CAMPOS                            CODIGO POCO    :   005920                                                
+ QUADRICULA     :                                           MESA ROTATIVA  :    122.0                                                
+ B.A.P          :     118.0                                 P.F.SONDADOR   :   2650.0                                                
+ PROF.MX.PERF.  :   2645.0                                  METROS PERF.   :   2650.0                                                
+ MAIOR PROF.    :   2650.0                                  INICIO         :   20/10/79                                              
+ TERMINO        :   22/12/79                                DATA LIB.SONDA :   28/12/79                                              
+ ULT.RECLASSIF. :   03/03/80                                ULT.RECLASSIF. :   LOCACAO                                               
+ SITUACAO LOC.  :   CONCLUIDO                               DATA APROV.LOC :   22/05/79                                              
+ CADASTRO       :   01385                                   SEDOC          :   0214                                                  
+ SONDA          :   SC40                                    FORMACAO P.F.  :   F SERRAR                                              
+ TERRA / MAR    :   TERRA                                   ACS RISCO      :                                                         
+ CONTR. RISCO   :                                           DOC.APROV.LOC. :   DEPEX-T-50.016/79                                     
+ NOME           :   CD S MIG CAMPOS.11                      CLASSIFICACAO  :   EXTENSAO                                              
+ RECLASSIFICACAO:   EXTENSAO PRODUTOR DE GAS.                                                                                        
+ MC C.UTM BASE  :   - 39                                    COORD.UTM BASE :     8913871.0S    814684.8W                             
+ DADOS  LOCACAO :                                                                                                                    
+ MC LOCACAO     :   - 39                                    COORD.UTM LOC. :     8913871.0S   814684.8W                              
+ DATUM LOCACAO  :   ARATU                                   EMPR. OPER.1/2 :    PETROBRAS                                            
+ DIRECIONAL?    :   VERTICAL                                                                                                         
+ HISTORICO DA RECLASSIFICACAO -      05/01/80   -  INDEFINIDO.                                           - SITUACAO ATUAL            
+                                     03/03/80   -  EXTENSAO PRODUTOR DE GAS.                             - RECLASSIFICACAO           
+-----------------                                                               
+ REVESTIMENTOS -         TIPO           PROFUNDIDADE        DIAMETRO       IND. DE RECUPERACAO                                       
+-----------------                                                               
+                    REV. SUPERFICIE      99.2  (   22.8)    13 3/8           NAO                                                     
+                    REV. PRODUCAO      2650.0  (-2528.0)     5 1/2           DADO NAO REVISTO                                        
+------------------------------                                                  
+ INTERVALOS TAMPONEADOS -TOPO                BASE                     TIPO DE TAMPAO                                                 
+------------------------------                                                  
+                          85.0   (   37.0)   101.0   (   21.0)        ISOLAMENTO                                                     
+-----------------------                                                         
+ UNID.VERTICALIZADAS -                                                                                                               
+-----------------------                                                         
+ TIP QL N O M E  CODIGO  TOPO / COTA     DESC. TOPO   BASE / COTA      DESC. BASE   MET TEMPO FONTE DE INTERPRETACAO       DATA      
+ L   B  F BARRRS 044009     4.0(  118.0) DISCORDANCIA   56.0 (   66.)                B        A.G.P.  ANTIGO               01/01/1900
+ L   B  F COQSEC 427548    56.0(   66.0) DISCORDANCIA  502.0 ( -380.)                A        A.G.P.  ANTIGO               01/01/1900
+ L   B  F PENEDO 451050   502.0( -380.0)              1203.0 (-1081.)                B        A.G.P.  ANTIGO               01/01/1900
+ L   B  F BARITI 478051  1203.0(-1081.0)              2594.0 (-2472.)                B        A.G.P.  ANTIGO               01/01/1900
+ L   B  F SERRAR 622054  2594.0(-2472.0)                                             B        A.G.P.  ANTIGO               01/01/1900
+-------------------------------                                                 
+ INDICIOS DE HIDROCARBONETOS -                                                                                                       
+-------------------------------                                                 
+ TIPO ORIGEM AMOSTRA   T O P O           B A S E      MODO      R O C H A        %       TIPO/COR/TONALIDADE        V/M  UGT   UGP   
+  O     L      C      93.0 (   29.0)  102.0 (   20.0)  Z   ARENITO                  TOTAL  /CASTANHO /CLARO         P/               
+  O     L      C     102.0 (   20.0)  117.0 (    5.0)  Z   ARENITO                  ESPARSA/CASTANHO /CLARO         P/               
+  G     D      N     110.0 (   12.0)  134.0 (  -12.0)  N                                                             /    70         
+  O     L      C     117.0 (    5.0)  132.0 (  -10.0)  Z   ARENITO                  PONTUAL/AMARELO  /CLARO         P/               
+  O     L      C     132.0 (  -10.0)  183.0 (  -61.0)  Z   ARENITO                  ESPARSA/AMARELO  /CLARO         P/               
+  G     D      N     134.0 (  -12.0)  173.0 (  -51.0)  N                                                             /   120         
+  G     D      N     175.0 (  -53.0)  305.0 ( -183.0)  N                                                             /    40         
+  O     L      C     183.0 (  -61.0)  189.0 (  -67.0)  Z   ARENITO                  TOTAL  /CASTANHO /CLARO         I/               
+  O     L      C     189.0 (  -67.0)  198.0 (  -76.0)  Z   ARENITO                  ESPARSA/CASTANHO /CLARO         M/               
+  O     L      C     198.0 (  -76.0)  210.0 (  -88.0)  Z   ARENITO                  ESPARSA/CASTANHO /CLARO         P/               
+  O     L      C     210.0 (  -88.0)  216.0 (  -94.0)  M   ARENITO                  TOTAL  /AMARELO  /CLARO         M/               
+  O     L      C     216.0 (  -94.0)  231.0 ( -109.0)  Z   ARENITO                  ESPARSA/AMARELO  /CLARO         M/               
+  O     L      C     231.0 ( -109.0)  261.0 ( -139.0)  Z   ARENITO                  ESPARSA/AMARELO  /CLARO         P/               
+  O     L      C     261.0 ( -139.0)  264.0 ( -142.0)  Z   ARENITO                  PONTUAL/AMARELO  /CLARO         P/               
+  O     L      C     282.0 ( -160.0)  291.0 ( -169.0)  Z   ARENITO                  PONTUAL/AMARELO  /CLARO         P/               
+  O     L      C     303.0 ( -181.0)  309.0 ( -187.0)  Z   ARENITO                  TOTAL  /AMARELO  /CLARO         P/               
+  O     L      C     309.0 ( -187.0)  336.0 ( -214.0)  Z   ARENITO                  TOTAL  /AMARELO  /ESBRANQUICADO M/               
+  O     L      C     336.0 ( -214.0)  348.0 ( -226.0)  Z   ARENITO                  ESPARSA/AMARELO  /ESBRANQUICADO M/               
+  G     D      N     336.0 ( -214.0)  372.0 ( -250.0)  N                                                             /    80    23   
+  O     L      C     348.0 ( -226.0)  351.0 ( -229.0)  Z   ARENITO                  TOTAL  /AMARELO  /ESBRANQUICADO M/               
+  O     L      C     351.0 ( -229.0)  360.0 ( -238.0)  Z   ARENITO                  ESPARSA/AMARELO  /ESBRANQUICADO P/               
+  O     L      C     360.0 ( -238.0)  369.0 ( -247.0)  Z   ARENITO                  ESPARSA/AMARELO  /ESBRANQUICADO M/               
+  O     L      C     369.0 ( -247.0)  381.0 ( -259.0)  Z   ARENITO                  ESPARSA/AMARELO  /CLARO         P/               
+  O     L      C     381.0 ( -259.0)  393.0 ( -271.0)  Z   ARENITO                  ESPARSA/AMARELO  /CLARO         M/               
+  O     L      C     393.0 ( -271.0)  411.0 ( -289.0)  Z   ARENITO                  ESPARSA/AMARELO  /CLARO         P/               
+  G     D      N     399.0 ( -277.0)  491.0 ( -369.0)  N                                                             /    80    23   
+  O     L      C     411.0 ( -289.0)  420.0 ( -298.0)  Z   ARENITO                  PONTUAL/AMARELO  /CLARO         P/               
+  O     L      C     420.0 ( -298.0)  435.0 ( -313.0)  Z   ARENITO                  ESPARSA/AMARELO  /CLARO         P/               
+  O     L      C     435.0 ( -313.0)  456.0 ( -334.0)  Z   ARENITO                  PONTUAL/AMARELO  /CLARO         P/               
+  O     L      C     498.0 ( -376.0)  507.0 ( -385.0)  Z   ARENITO                  ESPARSA/AMARELO  /CLARO         P/               
+  G     D      N     531.0 ( -409.0)  543.0 ( -421.0)  N                                                             /    50         
+  O     L      C     537.0 ( -415.0)  543.0 ( -421.0)  Z   ARENITO                  ESPARSA/AMARELO  /CLARO         P/               
+  O     L      C     543.0 ( -421.0)  552.0 ( -430.0)  Z   ARENITO                  PONTUAL/AMARELO  /CLARO         P/               
+  O     L      C     564.0 ( -442.0)  612.0 ( -490.0)  Z   ARENITO                  PONTUAL/AMARELO  /CLARO         P/               
+  G     D      N     596.0 ( -474.0)  598.0 ( -476.0)  N                                                             /    22         
+  O     L      C    1065.0 ( -943.0) 1077.0 ( -955.0)  Z   ARENITO                  PONTUAL/AMARELO  /CLARO         P/               
+  O     L      C    1251.0 (-1129.0) 1254.0 (-1132.0)  Z   ARENITO                  PONTUAL/AMARELO  /CLARO         P/               
+  O     L      C    1287.0 (-1165.0) 1290.0 (-1168.0)  Z   ARENITO                  PONTUAL/AMARELO  /CLARO         M/               
+  G     D      N    1351.0 (-1229.0) 1352.0 (-1230.0)  N                                                             /     4         
+  G     D      N    1377.0 (-1255.0) 1394.0 (-1272.0)  N                                                             /    10         
+  G     D      N    1434.0 (-1312.0) 1434.0 (-1312.0)  N                                                             /     2         
+  G     D      N    1447.0 (-1325.0) 1449.0 (-1327.0)  N                                                             /     6         
+  O     L      C    1527.0 (-1405.0) 1548.0 (-1426.0)  Z   ARENITO                  PONTUAL/AMARELO  /CLARO         S/               
+  G     D      N    1546.0 (-1424.0) 1547.0 (-1425.0)  N                                                             /    16         
+  O     L      C    1554.0 (-1432.0) 1563.0 (-1441.0)  Z   ARENITO                  PONTUAL/AMARELO  /CLARO         P/               
+  O     L      C    1572.0 (-1450.0) 1587.0 (-1465.0)  Z   ARENITO                  PONTUAL/AMARELO  /CLARO         P/               
+  G     D      N    1572.0 (-1450.0) 1573.0 (-1451.0)  N                                                             /     7         
+  O     L      C    1587.0 (-1465.0) 1596.0 (-1474.0)  Z   ARENITO                  ESPARSA/AMARELO  /CLARO         P/               
+  G     D      N    1590.0 (-1468.0) 1591.0 (-1469.0)  N                                                             /     9         
+  O     L      C    1596.0 (-1474.0) 1614.0 (-1492.0)  Z   ARENITO                  PONTUAL/AMARELO  /CLARO         P/               
+  G     D      N    1609.0 (-1487.0) 1610.0 (-1488.0)  N                                                             /     3         
+  O     L      C    1614.0 (-1492.0) 1650.0 (-1528.0)  Z   ARENITO                  PONTUAL/AMARELO  /CLARO         S/               
+  G     D      N    1628.0 (-1506.0) 1628.0 (-1506.0)  N                                                             /     2         
+  G     D      N    1649.0 (-1527.0) 1650.0 (-1528.0)  N                                                             /     4         
+  O     L      C    1653.0 (-1531.0) 1659.0 (-1537.0)  Z   ARENITO                  PONTUAL/AMARELO  /CLARO         P/               
+  O     L      C    1659.0 (-1537.0) 1677.0 (-1555.0)  Z   ARENITO                  PONTUAL/AMARELO  /CLARO         S/               
+  O     L      C    1683.0 (-1561.0) 1689.0 (-1567.0)  Z   ARENITO                  PONTUAL/AMARELO  /CLARO         S/               
+  O     L      C    1695.0 (-1573.0) 1746.0 (-1624.0)  Z   ARENITO                  PONTUAL/AMARELO  /CLARO         S/               
+  G     D      N    1697.0 (-1575.0) 1697.0 (-1575.0)  N                                                             /     2         
+  G     D      N    1722.0 (-1600.0) 1723.0 (-1601.0)  N                                                             /     2         
+  O     L      C    1746.0 (-1624.0) 1764.0 (-1642.0)  Z   ARENITO                  TOTAL  /AMARELO  /CLARO         P/               
+  G     D      N    1754.0 (-1632.0) 1754.0 (-1632.0)  N                                                             /    43    21   
+  O     L      C    1767.0 (-1645.0) 1776.0 (-1654.0)  Z   ARENITO                  TOTAL  /AMARELO  /CLARO         P/               
+  O     L      C    1776.0 (-1654.0) 1800.0 (-1678.0)  Z   ARENITO                  PONTUAL/AMARELO  /CLARO         S/               
+  G     D      N    1805.0 (-1683.0) 1808.0 (-1686.0)  N                                                             /     6         
+  O     L      C    1833.0 (-1711.0) 1839.0 (-1717.0)  Z   ARENITO                  PONTUAL/AMARELO  /CLARO         S/               
+  O     L      C    1866.0 (-1744.0) 1875.0 (-1753.0)  Z   ARENITO                  TOTAL  /AMARELO  /CLARO         P/               
+  O     L      C    1875.0 (-1753.0) 1878.0 (-1756.0)  Z   ARENITO                  PONTUAL/AMARELO  /CLARO         S/               
+  G     D      N    1876.0 (-1754.0) 1876.0 (-1754.0)  N                                                             /    24         
+  O     L      C    1893.0 (-1771.0) 1899.0 (-1777.0)  Z   ARENITO                  PONTUAL/AMARELO  /CLARO         S/               
+  G     D      N    1931.0 (-1809.0) 1935.0 (-1813.0)  N                                                             /    14         
+  O     L      C    1932.0 (-1810.0) 1935.0 (-1813.0)  Z   ARENITO                  TOTAL  /AMARELO  /CLARO         P/               
+  O     L      C    1935.0 (-1813.0) 1938.0 (-1816.0)  Z   ARENITO                  ESPARSA/AMARELO  /CLARO         P/               
+  O     L      C    1938.0 (-1816.0) 1941.0 (-1819.0)  Z   ARENITO                  TOTAL  /AMARELO  /CLARO         P/               
+  O     L      C    1941.0 (-1819.0) 1953.0 (-1831.0)  Z   ARENITO                  PONTUAL/AMARELO  /CLARO         P/               
+  O     L      C    1956.0 (-1834.0) 1959.0 (-1837.0)  Z   ARENITO                  ESPARSA/AMARELO  /CLARO         P/               
+  G     D      N    1957.0 (-1835.0) 1967.0 (-1845.0)  N                                                             /    11         
+  O     L      C    1965.0 (-1843.0) 1968.0 (-1846.0)  Z   ARENITO                  PONTUAL/AMARELO  /CLARO         S/               
+  O     L      C    1977.0 (-1855.0) 1980.0 (-1858.0)  Z   ARENITO                  ESPARSA/AMARELO  /CLARO         P/               
+  G     D      N    1978.0 (-1856.0) 1979.0 (-1857.0)  N                                                             /     8         
+  O     L      C    1986.0 (-1864.0) 1989.0 (-1867.0)  Z   ARENITO                  ESPARSA/AMARELO  /CLARO         P/               
+  G     D      N    1993.0 (-1871.0) 1995.0 (-1873.0)  N                                                             /    14         
+  O     L      C    1995.0 (-1873.0) 1998.0 (-1876.0)  Z   ARENITO                  ESPARSA/AMARELO  /CLARO         P/               
+  O     L      C    2001.0 (-1879.0) 2019.0 (-1897.0)  Z   ARENITO                  PONTUAL/AMARELO  /CLARO         P/               
+  O     L      C    2019.0 (-1897.0) 2025.0 (-1903.0)  Z   ARENITO                  PONTUAL/AMARELO  /CLARO         S/               
+  O     L      C    2028.0 (-1906.0) 2040.0 (-1918.0)  Z   ARENITO                  PONTUAL/AMARELO  /CLARO         P/               
+  G     D      N    2032.0 (-1910.0) 2033.0 (-1911.0)  N                                                             /    34         
+  O     L      C    2040.0 (-1918.0) 2046.0 (-1924.0)  Z   ARENITO                  ESPARSA/AMARELO  /CLARO         P/               
+  O     L      C    2046.0 (-1924.0) 2052.0 (-1930.0)  Z   ARENITO                  TOTAL  /AMARELO  /CLARO         P/               
+  G     D      N    2047.0 (-1925.0) 2051.0 (-1929.0)  N                                                             /    30         
+  O     L      C    2052.0 (-1930.0) 2058.0 (-1936.0)  Z   ARENITO                  PONTUAL/AMARELO  /CLARO         P/               
+  O     L      C    2058.0 (-1936.0) 2061.0 (-1939.0)  Z   ARENITO                  ESPARSA/AMARELO  /CLARO         P/               
+  G     D      N    2058.0 (-1936.0) 2059.0 (-1937.0)  N                                                             /     6         
+  O     L      C    2061.0 (-1939.0) 2073.0 (-1951.0)  Z   ARENITO                  PONTUAL/AMARELO  /CLARO         P/               
+  O     L      C    2076.0 (-1954.0) 2079.0 (-1957.0)  Z   ARENITO                  ESPARSA/AMARELO  /CLARO         P/               
+  O     L      C    2079.0 (-1957.0) 2094.0 (-1972.0)  Z   ARENITO                  PONTUAL/AMARELO  /CLARO         P/               
+  G     D      N    2079.0 (-1957.0) 2082.0 (-1960.0)  N                                                             /     8         
+  O     L      C    2106.0 (-1984.0) 2109.0 (-1987.0)  Z   ARENITO                  PONTUAL/AMARELO  /CLARO         P/               
+  G     D      N    2213.0 (-2091.0) 2213.0 (-2091.0)  N                                                             /     4         
+  O     L      C    2226.0 (-2104.0) 2229.0 (-2107.0)  Z   ARENITO                  TOTAL  /AMARELO  /CLARO         P/               
+  G     D      N    2227.0 (-2105.0) 2229.0 (-2107.0)  N                                                             /    26     2   
+  O     L      C    2229.0 (-2107.0) 2235.0 (-2113.0)  Z   ARENITO                  ESPARSA/AMARELO  /CLARO         P/               
+  O     L      C    2238.0 (-2116.0) 2241.0 (-2119.0)  Z   ARENITO                  PONTUAL/AMARELO  /CLARO         P/               
+  G     D      N    2241.0 (-2119.0) 2244.0 (-2122.0)  N                                                             /     9         
+  G     D      N    2278.0 (-2156.0) 2278.0 (-2156.0)  N                                                             /     4         
+  G     D      N    2288.0 (-2166.0) 2289.0 (-2167.0)  N                                                             /    14         
+  O     L      C    2325.0 (-2203.0) 2334.0 (-2212.0)  Z   ARENITO                  PONTUAL/AMARELO  /CLARO         P/               
+  G     D      N    2328.0 (-2206.0) 2328.0 (-2206.0)  N                                                             /    35         
+  G     D      N    2334.0 (-2212.0) 2340.0 (-2218.0)  N                                                             /    58     4   
+  G     D      N    2411.0 (-2289.0) 2412.0 (-2290.0)  N                                                             /    15         
+  G     D      N    2418.0 (-2296.0) 2421.0 (-2299.0)  N                                                             /    36         
+  O     L      C    2445.0 (-2323.0) 2448.0 (-2326.0)  Z   ARENITO                  PONTUAL/AMARELO  /CLARO         S/               
+  O     L      C    2457.0 (-2335.0) 2463.0 (-2341.0)  Z   ARENITO                  PONTUAL/AMARELO  /CLARO         S/               
+  G     D      N    2459.0 (-2337.0) 2461.0 (-2339.0)  N                                                             /   115   100   
+  G     D      N    2472.0 (-2350.0) 2473.0 (-2351.0)  N                                                             /    22         
+  G     D      N    2481.0 (-2359.0) 2482.0 (-2360.0)  N                                                             /     2         
+  O     L      C    2481.0 (-2359.0) 2484.0 (-2362.0)  Z   ARENITO                  ESPARSA/AMARELO  /CLARO         S/               
+  G     D      N    2551.0 (-2429.0) 2560.0 (-2438.0)  N                                                             /    30         
+  G     D      N    2572.0 (-2450.0) 2573.0 (-2451.0)  N                                                             /    11         
+  G     D      N    2581.0 (-2459.0) 2582.0 (-2460.0)  N                                                             /    12         
+  O     L      C    2592.0 (-2470.0) 2610.0 (-2488.0)  Z   ARENITO                  PONTUAL/AMARELO  /CLARO         S/               
+  G     D      N    2596.0 (-2474.0) 2601.0 (-2479.0)  N                                                             /    14         
+------------------------                                                        
+ OBJETIVOS E RESULTADOS - SEQ.   COD./NOME UNIDADE   STATUS INICIAL DO OBJETIVO           RESULTADO DO OBJETIVO                      
+------------------------                                                        
+                           01    478051 / F BARITI   PRINCIPAL                         PORTADOR DE GAS                               
+                           02    427548 / F COQSEC   SECUNDARIO                        PORTADOR DE GAS                               
+                           03    622054 / F SERRAR   SECUNDARIO                        PORTADOR DE OLEO E GAS                        
+----------                                                                      
+ FALHAS -                                                                                                                            
+----------                                                                      
+ FONTE INTERPRETACAO    DATA        PROF. / COTA     TIPO DA FALHA  MET  QUALIDADE    REJEITO  AZIMUTE  ANGULO     NOME DA FALHA     
+ E&P SEAL GERET/GECAR 30/05/1997  1802.0 (-2438.0)    NORMAL         A     BOM                                                       
+ E&P SEAL GERET/GECAR 30/05/1997  2062.0 (-1680.0)    NORMAL         A     BOM                                                       
+ E&P SEAL GERET/GECAR 30/05/1997  2338.0 (-1940.0)    NORMAL         A     BOM                                                       
+----------------------                                                          
+ TESTES DE FORMACAO -                                                                                                                
+----------------------                                                          
+
+
+ NUMERO - TFC 01                                                                                                                     
+ * INFORMACOES GERAIS *                                                                                                              
+ DATA : 29/10/1979         TIPO : CONVENCIONAL                      CIA : PETROBRAS                                                  
+ TOPO :  312.0 M           BASE :  336.0M                           PROF. POCO TESTE :                                               
+ DIAMETRO : 1214 POL       PROF. TOPO TAMPAO :                                                                                       
+ TEMP. MAX. TESTE :        FONTE DA TEMP. MAX. : DADO NAO REVISTO                                                                    
+ OBJETIVO : DADO NAO REVISTO                                                                                                         
+ MOTIVO : INDICIO DE HC DURANTE PERF.EM A.DE CALHA                                                                                   
+ RESULTADO : CONCLUSIVO (QUALITATIVO OU QUANTITATIVO)                                                                                
+ **** DADOS DO FLUIDO DE PERFURACAO ****                                                                                             
+                                                                                                                                     
+ **** DADOS DO FLUIDO DE PERFURACAO ****                                                                                             
+ FONTE DADOS FLUIDO : DADO N/REVISTO     FLUIDO : KCL C/ POLIMEROS                                                                   
+ DENSIDADE :  73.0                       VISCOSIDADE MARSH :  50 API            MEDIDA DE PH :   .                                   
+ SALINIDADE :  1   MG/L DE NACL * 1000   % OLEO FLUIDO PERF. :                  CONCENTRACAO CATION CA+2 :                           
+ CONCENTRACAO MG+2 :                     CONCENTRACAO DO TRACADOR :             TIPO DO TRACADOR :                                   
+ **** SUMARIO DOS PERIODOS ****                                                                                                      
+ PERIODO : HIDROSTATICA INICIAL                      PRESSAO :   INICIAL =                  FINAL =  38.3KGF/CM2                     
+ INTERVALO DE TEMPO :                                VOLUME PRODUZIDO :                                                              
+ INDICADOR DE INICIO DE PER. NA CARTA :              INDICADOR DE FIM DE PERIODO NA CARTA :                                          
+ NUM. REG PRES:   2801                                                                                                               
+ PERIODO : HIDROSTATICA FINAL                        PRESSAO :   INICIAL =  37.3KGF/CM2     FINAL =                                  
+ INTERVALO DE TEMPO :                                VOLUME PRODUZIDO :                                                              
+ INDICADOR DE INICIO DE PER. NA CARTA :              INDICADOR DE FIM DE PERIODO NA CARTA :                                          
+ NUM. REG PRES:   2801                                                                                                               
+ PERIODO : ESTATICA 1                                PRESSAO :   INICIAL =                  FINAL =  27.0KGF/CM2                     
+ INTERVALO DE TEMPO :                                VOLUME PRODUZIDO :                                                              
+ INDICADOR DE INICIO DE PER. NA CARTA :              INDICADOR DE FIM DE PERIODO NA CARTA :                                          
+ NUM. REG PRES:   2801                                                                                                               
+ PERIODO : ESTATICA 2                                PRESSAO :   INICIAL =                  FINAL =  27.2KGF/CM2                     
+ INTERVALO DE TEMPO :                                VOLUME PRODUZIDO :                                                              
+ INDICADOR DE INICIO DE PER. NA CARTA :              INDICADOR DE FIM DE PERIODO NA CARTA :                                          
+ NUM. REG PRES:   2801                                                                                                               
+ PERIODO : FLUXO 1                                   PRESSAO :   INICIAL =  26.4KGF/CM2     FINAL =  26.4KGF/CM2                     
+ INTERVALO DE TEMPO :                                VOLUME PRODUZIDO :                                                              
+ INDICADOR DE INICIO DE PER. NA CARTA :              INDICADOR DE FIM DE PERIODO NA CARTA :                                          
+ NUM. REG PRES:   2801                                                                                                               
+ PERIODO : FLUXO 2                                   PRESSAO :   INICIAL =  26.6KGF/CM2     FINAL =  26.6KGF/CM2                     
+ INTERVALO DE TEMPO :                                VOLUME PRODUZIDO :                                                              
+ INDICADOR DE INICIO DE PER. NA CARTA :              INDICADOR DE FIM DE PERIODO NA CARTA :                                          
+ NUM. REG PRES:   2801                                                                                                               
+ **** REGISTRADORES DE PRESSAO ****                                                                                                  
+ NUMERO :002801                        PROFUNDIDADE :  321.5 M               TIPO : AK-1                                             
+ POSICAO RELATIVA : DADO NAO REVISTO   CAPACIDADE :                          "M" :                                                   
+ "A" :                                 NUMERO DO RELOGIO :                   CAPACIDADE DO RELOGIO :                                 
+                                                                                                                                     
+ **** INTERPRETACAO DA CARTA DE TESTE DE FORMACAO ****                                                                               
+ PERIODO DO TESTE : DADO NAO REVISTO    DATA DE INTERPRETACAO : 01/01/1900                                                           
+ NUMERO DO REGISTRADOR :   2801         METODO DE INTERPRETACAO : DADO NAO REVISADO                                                  
+ TEMP. USADA NA INTERPRETACAO :         FONTE DE TEMP. : DADO NAO REVISTO                    INDICACAO DE BARREIRA : DADO NAO REVISTO
+ DISTANCIA DA BARREIRA :                FLUIDO CONSIDERADO : GAS                             VAZAO FINAL :                           
+ VAZAO MEDIA :                          VISCOSIDADE :                                        RAZAO GAS OLEO :                        
+ FATOR VOLUME DE FORMACAO : 0.94000     FATOR DESVIO DE GAS :                                SATURACAO MEDIA DE AGUA :               
+ ESPESSURA PERMEAVEL :  80.0 M          POROSIDADE MEDIA :                                   RAZAO DE PRODUTIVIDADE :                
+ RAIO DE INVESTIGACAO :                 COMPRESSIBILIDADE TOTAL :     .00 CM2/KGF * .000001                                          
+ PRESSAO DE FLUXO MEDIA :               PRESSAO ESTATICA EXTRAPOLADA :  27.2 KGF/CM2         PRESSAO FINAL DE FLUXO :                
+ PRES. INICIAL DE FLUXO :               COEFICIENTE DE ESTOCAGEM :                           TRANSMISSIBILIDADE :    91.0 MD.M/CP    
+ EFEITO PELICULA :                      INTEGRAL DA PRES. DE FLUXO P/ T=1H :                 DECLIVIDADE RETA :                      
+ DANO DE FORMACAO   0.90                INTEGRAL PRES. FLUXO P/ TMS=0 :                      PERMEABILIDADE EFETIVA :  137. 00 MD    
+ PRODUTIVIDADE :                        IND. PRODUTIVIDADE MINIMO :                          VAZAO ABS. DO GAS :   10400 M3/DIA      
+
+
+ NUMERO - TFC 02                                                                                                                     
+ * INFORMACOES GERAIS *                                                                                                              
+ DATA : 21/11/1979         TIPO : CONVENCIONAL                      CIA : PETROBRAS                                                  
+ TOPO : 1745.0 M           BASE : 1754.0M                           PROF. POCO TESTE :                                               
+ DIAMETRO :  812 POL       PROF. TOPO TAMPAO :                                                                                       
+ TEMP. MAX. TESTE :        FONTE DA TEMP. MAX. : DADO NAO REVISTO                                                                    
+ OBJETIVO : DADO NAO REVISTO                                                                                                         
+ MOTIVO : INDICIO DE HC DURANTE PERF.EM A.DE CALHA                                                                                   
+ RESULTADO : CONCLUSIVO (QUALITATIVO OU QUANTITATIVO)                                                                                
+                                                                                                                                     
+ **** DADOS DO FLUIDO DE PERFURACAO ****                                                                                             
+ FONTE DADOS FLUIDO : DADO N/REVISTO     FLUIDO : KCL C/ POLIMEROS                                                                   
+ DENSIDADE :  73.0                       VISCOSIDADE MARSH :  50 API            MEDIDA DE PH :   .                                   
+ SALINIDADE :  3   MG/L DE NACL * 1000   % OLEO FLUIDO PERF. :                  CONCENTRACAO CATION CA+2 :                           
+ CONCENTRACAO MG+2 :                     CONCENTRACAO DO TRACADOR :             TIPO DO TRACADOR :                                   
+ **** SUMARIO DOS PERIODOS ****                                                                                                      
+ PERIODO : HIDROSTATICA INICIAL                      PRESSAO :   INICIAL =                  FINAL = 205.5KGF/CM2                     
+ INTERVALO DE TEMPO :                                VOLUME PRODUZIDO :                                                              
+ INDICADOR DE INICIO DE PER. NA CARTA :              INDICADOR DE FIM DE PERIODO NA CARTA :                                          
+ NUM. REG PRES:   2817                                                                                                               
+ PERIODO : ESTATICA 1                                PRESSAO :   INICIAL =                  FINAL = 167.2KGF/CM2                     
+ INTERVALO DE TEMPO :                                VOLUME PRODUZIDO :                                                              
+ INDICADOR DE INICIO DE PER. NA CARTA :              INDICADOR DE FIM DE PERIODO NA CARTA :                                          
+ NUM. REG PRES:   2817                                                                                                               
+ PERIODO : FLUXO 1                                   PRESSAO :   INICIAL =  39.0KGF/CM2     FINAL =  47.6KGF/CM2                     
+ INTERVALO DE TEMPO :                                VOLUME PRODUZIDO :                                                              
+ INDICADOR DE INICIO DE PER. NA CARTA :              INDICADOR DE FIM DE PERIODO NA CARTA :                                          
+ NUM. REG PRES:   2817                                                                                                               
+ PERIODO : FLUXO 2                                   PRESSAO :   INICIAL =  51.9KGF/CM2     FINAL =  68.4KGF/CM2                     
+ INTERVALO DE TEMPO :                                VOLUME PRODUZIDO :                                                              
+ INDICADOR DE INICIO DE PER. NA CARTA :              INDICADOR DE FIM DE PERIODO NA CARTA :                                          
+ NUM. REG PRES:   2817                                                                                                               
+ **** RECUPERACAO NA COLUNA ***                                                                                                      
+ FLUIDO RECUPERADO :     AGUA CORTADA POR LAMA                     VOLUME :  3.77M3       MODO DE RECUPERACAO : DADO NAO REVISTO     
+ **** REGISTRADORES DE PRESSAO ****                                                                                                  
+ NUMERO :  2817                        PROFUNDIDADE : 1738.0 M               TIPO : AK-1                                             
+ POSICAO RELATIVA : DADO NAO REVISTO   CAPACIDADE :                          "M" :                                                   
+ "A" :                                 NUMERO DO RELOGIO :                   CAPACIDADE DO RELOGIO :                                 
+ **** AMOSTRAGEM E ANALISE DO RECUPERADO ****                                                                                        
+ POSICAO DE COLETA DA AMOSTRA : DADO NAO REVISTO                    TIPO DO FLUIDO: DADO NAO REVISTO                                 
+                                                                                                                                     
+ **** AMOSTRAGEM E ANALISE DO RECUPERADO ****                                                                                        
+ FONTE DE DADOS DE ANALISE : DADO NAO REVISTO                       VISCOSIDADE :                          API DA AMOSTRA A 60 F :   
+ CONCENTRADOR TRACADOR DE AMOSTRA : 4   PPM * 1000                  TIPO DE TRACADOR :                     RW A 75 F :               
+ CONCENTRACAO DE H2S DA AMOSTRA :                                   MEDIDA DE PH DA AMOSTRA :              % OLEO DA AMOSTRA :       
+ CONCENTRACAO DO CATION CA+2 DA AMOSTRA :                           CONCENTRACAO SALINIDADE DA AMOSTRA :  214 MG/L DE NA CL * 1000   
+ CONCENTRACAO DO CATION MG+2 DA AMOSTRA :                           DENSIDADE RELATIVA DA AMOSTRA :                                  
+ VOL. COLETADO AMOSTRA RECUP:                                                                                                        
+ **** INTERPRETACAO DA CARTA DE TESTE DE FORMACAO ****                                                                               
+ PERIODO DO TESTE : DADO NAO REVISTO    DATA DE INTERPRETACAO : 01/01/1900                                                           
+ NUMERO DO REGISTRADOR :   2817         METODO DE INTERPRETACAO : DADO NAO REVISADO                                                  
+ TEMP. USADA NA INTERPRETACAO :         FONTE DE TEMP. : DADO NAO REVISTO                    INDICACAO DE BARREIRA : DADO NAO REVISTO
+ DISTANCIA DA BARREIRA :                FLUIDO CONSIDERADO : MULTIFASICO                     VAZAO FINAL :                           
+ VAZAO MEDIA :                          VISCOSIDADE :                                        RAZAO GAS OLEO :                        
+ FATOR VOLUME DE FORMACAO :             FATOR DESVIO DE GAS :                                SATURACAO MEDIA DE AGUA :               
+ ESPESSURA PERMEAVEL :  90.0 M          POROSIDADE MEDIA :                                   RAZAO DE PRODUTIVIDADE :                
+ RAIO DE INVESTIGACAO :                 COMPRESSIBILIDADE TOTAL :     .00 CM2/KGF * .000001                                          
+ PRESSAO DE FLUXO MEDIA :               PRESSAO ESTATICA EXTRAPOLADA :                       PRESSAO FINAL DE FLUXO :                
+ PRES. INICIAL DE FLUXO :               COEFICIENTE DE ESTOCAGEM :                           TRANSMISSIBILIDADE :    38.0 MD.M/CP    
+ EFEITO PELICULA :                      INTEGRAL DA PRES. DE FLUXO P/ T=1H :                 DECLIVIDADE RETA :                      
+ DANO DE FORMACAO   0.50                INTEGRAL PRES. FLUXO P/ TMS=0 :                      PERMEABILIDADE EFETIVA :    0.600 MD    
+ PRODUTIVIDADE :                        IND. PRODUTIVIDADE MINIMO :                          VAZAO ABS. DO GAS :                     
+
+
+ NUMERO - TFC 03                                                                                                                     
+ * INFORMACOES GERAIS *                                                                                                              
+                                                                                                                                     
+ * INFORMACOES GERAIS *                                                                                                              
+ DATA : 13/12/1979         TIPO : CONVENCIONAL                      CIA : PETROBRAS                                                  
+ TOPO : 2445.5 M           BASE : 2463.0M                           PROF. POCO TESTE :                                               
+ DIAMETRO :  812 POL       PROF. TOPO TAMPAO :                                                                                       
+ TEMP. MAX. TESTE :        FONTE DA TEMP. MAX. : DADO NAO REVISTO                                                                    
+ OBJETIVO : DADO NAO REVISTO                                                                                                         
+ MOTIVO : INDICIO DE HC DURANTE PERF.EM A.DE CALHA                                                                                   
+ RESULTADO : CONCLUSIVO (QUALITATIVO OU QUANTITATIVO)                                                                                
+ **** DADOS DO FLUIDO DE PERFURACAO ****                                                                                             
+ FONTE DADOS FLUIDO : DADO N/REVISTO     FLUIDO : KCL C/ POLIMEROS                                                                   
+ DENSIDADE :  70.0                       VISCOSIDADE MARSH :  57 API            MEDIDA DE PH :   .                                   
+ SALINIDADE :  3   MG/L DE NACL * 1000   % OLEO FLUIDO PERF. :                  CONCENTRACAO CATION CA+2 :                           
+ CONCENTRACAO MG+2 :                     CONCENTRACAO DO TRACADOR :             TIPO DO TRACADOR :                                   
+ **** SUMARIO DOS PERIODOS ****                                                                                                      
+ PERIODO : HIDROSTATICA INICIAL                      PRESSAO :   INICIAL =                  FINAL = 278.3KGF/CM2                     
+ INTERVALO DE TEMPO :                                VOLUME PRODUZIDO :                                                              
+ INDICADOR DE INICIO DE PER. NA CARTA :              INDICADOR DE FIM DE PERIODO NA CARTA :                                          
+ NUM. REG PRES:   3313                                                                                                               
+ PERIODO : HIDROSTATICA FINAL                        PRESSAO :   INICIAL = 276.9KGF/CM2     FINAL =                                  
+ INTERVALO DE TEMPO :                                VOLUME PRODUZIDO :                                                              
+ INDICADOR DE INICIO DE PER. NA CARTA :              INDICADOR DE FIM DE PERIODO NA CARTA :                                          
+ NUM. REG PRES:   3313                                                                                                               
+ PERIODO : ESTATICA 1                                PRESSAO :   INICIAL =                  FINAL = 237.9KGF/CM2                     
+ INTERVALO DE TEMPO :                                VOLUME PRODUZIDO :                                                              
+ INDICADOR DE INICIO DE PER. NA CARTA :              INDICADOR DE FIM DE PERIODO NA CARTA :                                          
+ NUM. REG PRES:   3313                                                                                                               
+ PERIODO : ESTATICA 2                                PRESSAO :   INICIAL =                  FINAL = 236.1KGF/CM2                     
+ INTERVALO DE TEMPO :                                VOLUME PRODUZIDO :                                                              
+ INDICADOR DE INICIO DE PER. NA CARTA :              INDICADOR DE FIM DE PERIODO NA CARTA :                                          
+ NUM. REG PRES:   3313                                                                                                               
+ PERIODO : FLUXO 1                                   PRESSAO :   INICIAL =   6.9KGF/CM2     FINAL =  75.5KGF/CM2                     
+ INTERVALO DE TEMPO :                                VOLUME PRODUZIDO :                                                              
+ INDICADOR DE INICIO DE PER. NA CARTA :              INDICADOR DE FIM DE PERIODO NA CARTA :                                          
+ NUM. REG PRES:   3313                                                                                                               
+ PERIODO : FLUXO 2                                   PRESSAO :   INICIAL =   5.4KGF/CM2     FINAL =   5.8KGF/CM2                     
+ INTERVALO DE TEMPO :                                VOLUME PRODUZIDO :                                                              
+                                                                                                                                     
+ **** SUMARIO DOS PERIODOS ****                                                                                                      
+ INDICADOR DE INICIO DE PER. NA CARTA :              INDICADOR DE FIM DE PERIODO NA CARTA :                                          
+ NUM. REG PRES:   3313                                                                                                               
+ **** REGISTRADORES DE PRESSAO ****                                                                                                  
+ NUMERO :  3313                        PROFUNDIDADE : 2451.6 M               TIPO : AK-1                                             
+ POSICAO RELATIVA : DADO NAO REVISTO   CAPACIDADE :                          "M" :                                                   
+ "A" :                                 NUMERO DO RELOGIO :                   CAPACIDADE DO RELOGIO :                                 
+ **** INTERPRETACAO DA CARTA DE TESTE DE FORMACAO ****                                                                               
+ PERIODO DO TESTE : DADO NAO REVISTO    DATA DE INTERPRETACAO : 01/01/1900                                                           
+ NUMERO DO REGISTRADOR :   3313         METODO DE INTERPRETACAO : DADO NAO REVISADO                                                  
+ TEMP. USADA NA INTERPRETACAO :         FONTE DE TEMP. : DADO NAO REVISTO                    INDICACAO DE BARREIRA : DADO NAO REVISTO
+ DISTANCIA DA BARREIRA :                FLUIDO CONSIDERADO : GAS                             VAZAO FINAL :                           
+ VAZAO MEDIA :                          VISCOSIDADE :                                        RAZAO GAS OLEO :                        
+ FATOR VOLUME DE FORMACAO :             FATOR DESVIO DE GAS :                                SATURACAO MEDIA DE AGUA :               
+ ESPESSURA PERMEAVEL :  50.0 M          POROSIDADE MEDIA :                                   RAZAO DE PRODUTIVIDADE :                
+ RAIO DE INVESTIGACAO :                 COMPRESSIBILIDADE TOTAL :     .00 CM2/KGF * .000001                                          
+ PRESSAO DE FLUXO MEDIA :               PRESSAO ESTATICA EXTRAPOLADA :                       PRESSAO FINAL DE FLUXO :                
+ PRES. INICIAL DE FLUXO :               COEFICIENTE DE ESTOCAGEM :                           TRANSMISSIBILIDADE :                    
+ EFEITO PELICULA :                      INTEGRAL DA PRES. DE FLUXO P/ T=1H :                 DECLIVIDADE RETA :                      
+ DANO DE FORMACAO                       INTEGRAL PRES. FLUXO P/ TMS=0 :                      PERMEABILIDADE EFETIVA :                
+ PRODUTIVIDADE :                        IND. PRODUTIVIDADE MINIMO :                          VAZAO ABS. DO GAS :                     
+----------------------------------                                              
+  PERFIS: AQUISICAO/PROCESSAMENTO                                                                                                    
+----------------------------------                                              
+   COD  GR  TIPO           CIA   COR DESC    DATA           TOPO            BASE                                                     
+   ---  --  ----           ---   --- ----    ----           ----            ----                                                     
+   140  01  CDL/           GO I  01    A  05/11/1979    99.6(    22.4)  550.0(  -428.0)                                              
+   194  01  CNS/                       A                99.6(    22.4)  550.0(  -428.0)                                              
+   165  01  GR                         A                99.6(    22.4)  550.0(  -428.0)                                              
+   005  02  IEL                        A                99.2(    22.8) 1088.7(  -966.7)                                              
+   105  03  BCS/                       A                99.2(    22.8) 1086.6(  -964.6)                                              
+   165  03  GR                         B                99.2(    22.8) 1088.0(  -966.0)                                              
+   005  01  IEL            GO I  02    B  21/12/1979  1087.7(  -965.7) 2644.7( -2522.7)                                              
+   140  02  CDL/                       B              1086.6(  -964.6) 2644.3( -2522.3)                                              
+   194  02  CNS/                       B              1086.6(  -964.6) 2641.1( -2519.1)                                              
+   165  02  GR                         C              1086.6(  -964.6) 2638.7( -2516.7)                                              
+   105  03  BCS                        B              1086.8(  -964.8) 2641.7( -2519.7)                                              
+   237  04  FED                        A              1086.2(  -964.2) 2644.5( -2522.5)                                              
+------------------------------------------------------                          
+ PERFIS: REGISTRO DE DADOS DE TEMPERATURA EXTRAPOLADA                                                                                
+------------------------------------------------------                          
+  CORRIDA               METODO                               TEMPERATURA               PROF. DEFINIDA             GRADIENTE          
+                        EXTRAPOLACAO                         EXTRAPOLADA                POR GRAFICO               GEOTERMICO         
+                                                                                                                  (GRAU F/M)         
+                                                                                                                                     
+------------------------------------------------------                          
+ PERFIS: REGISTRO DE DADOS DE TEMPERATURA EXTRAPOLADA                                                                                
+------------------------------------------------------                          
+  CORRIDA               METODO                               TEMPERATURA               PROF. DEFINIDA             GRADIENTE          
+                        EXTRAPOLACAO                         EXTRAPOLADA                POR GRAFICO               GEOTERMICO         
+                                                                                                                  (GRAU F/M)         
+    01                  DADO NAO REVISTO                        127.0                  1089.0(  -967.0)              .117            
+    02                  DADO NAO REVISTO                        231.0                  2645.0( -2523.0)              .087            
+-------------                                                                   
+ LITOLOGIA -                                                                                                                         
+-------------                                                                   
+  TOPO              BASE                ROCHA                 COR         TONALIDADE    GRANULOMETRIA   ARREDONDAMENTO               
+    4.0 (  118.0)    12.0 (  110.0)  55 ARGILA                AMARELO     CLARO                                                      
+                     24.0 (   98.0)  48 AREIA                 BRANCO                    GROSSEIRO       SUBANGULAR                   
+                     27.0 (   95.0)  55 ARGILA                BRANCO                                                                 
+                     30.0 (   92.0)  48 AREIA                 BRANCO                    GROSSEIRO       SUBANGULAR                   
+                     32.0 (   90.0)  55 ARGILA                BRANCO                                                                 
+                     38.0 (   84.0)  48 AREIA                 BRANCO                    GROSSEIRO       SUBANGULAR                   
+                     45.0 (   77.0)  55 ARGILA                BRANCO                                                                 
+                     48.0 (   74.0)  48 AREIA                 BRANCO                    GROSSEIRO       SUBANGULAR                   
+                     50.0 (   72.0)  55 ARGILA                AMARELO                                                                
+                     57.0 (   65.0)  48 AREIA                 BRANCO      ACINZENTADO   GROSSEIRO       SUBANGULAR                   
+                     62.0 (   60.0)  57 FOLHELHO              CINZA       CLARO                                                      
+                     76.0 (   46.0)  48 AREIA                 BRANCO                    GROSSEIRO       SUBANGULAR                   
+                     79.0 (   43.0)  57 FOLHELHO              CINZA       ACASTANHADO                                                
+                     83.0 (   39.0)  48 AREIA                 BRANCO                    GROSSEIRO       SUBANGULAR                   
+                     87.0 (   35.0)  57 FOLHELHO              CINZA       ACASTANHADO                                                
+                     93.0 (   29.0)  49 ARENITO               CINZA       ESBRANQUICADO FINO                                         
+                     97.0 (   25.0)  57 FOLHELHO              CINZA       ACASTANHADO                                                
+                    103.0 (   19.0)  49 ARENITO               CASTANHO    CLARO         FINO                                         
+                    109.0 (   13.0)  57 FOLHELHO              CINZA       ACASTANHADO                                                
+                    112.0 (   10.0)  49 ARENITO               CASTANHO    CLARO         MEDIO           SUBANGULAR                   
+                    118.0 (    4.0)  57 FOLHELHO              CINZA       ACASTANHADO                                                
+                    122.0 (     .0)  49 ARENITO               CASTANHO    CLARO         FINO                                         
+                    127.0 (   -5.0)  57 FOLHELHO              CINZA       ACASTANHADO                                                
+                    130.0 (   -8.0)  49 ARENITO               CASTANHO    CLARO         FINO            SUBANGULAR                   
+                    132.0 (  -10.0)  57 FOLHELHO              CINZA       ACASTANHADO                                                
+                    134.0 (  -12.0)  49 ARENITO               CASTANHO    CLARO         FINO                                         
+                    143.0 (  -21.0)  57 FOLHELHO              CINZA       ACASTANHADO                                                
+                    147.0 (  -25.0)  49 ARENITO               CASTANHO    CLARO         FINO                                         
+                    150.0 (  -28.0)  57 FOLHELHO              CINZA       ACASTANHADO                                                
+                    152.0 (  -30.0)  49 ARENITO               CASTANHO    CLARO         FINO                                         
+                    158.0 (  -36.0)  57 FOLHELHO              CASTANHO    CLARO                                                      
+                    162.0 (  -40.0)  49 ARENITO               CASTANHO    CLARO         FINO                                         
+                    173.0 (  -51.0)  57 FOLHELHO              CINZA       ACASTANHADO                                                
+                    178.0 (  -56.0)  49 ARENITO               CINZA       CLARO         FINO                                         
+                    180.0 (  -58.0)  57 FOLHELHO              CINZA       ACASTANHADO                                                
+                    185.0 (  -63.0)  49 ARENITO               CASTANHO    CLARO         FINO                                         
+                    189.0 (  -67.0)  57 FOLHELHO              CINZA       ACASTANHADO                                                
+                    192.0 (  -70.0)  49 ARENITO               CASTANHO    CLARO         MEDIO           SUBANGULAR                   
+                    202.0 (  -80.0)  57 FOLHELHO              CINZA       ACASTANHADO                                                
+                    207.0 (  -85.0)  49 ARENITO               CINZA       CLARO         MEDIO           SUBANGULAR                   
+                    212.0 (  -90.0)  57 FOLHELHO              CINZA       ACASTANHADO                                                
+                    214.0 (  -92.0)  49 ARENITO               CASTANHO    CLARO         FINO                                         
+                    217.0 (  -95.0)  57 FOLHELHO              CINZA       ACASTANHADO                                                
+                    221.0 (  -99.0)  49 ARENITO               CASTANHO    CLARO         GROSSEIRO       ARREDONDADO                  
+                    223.0 ( -101.0)  57 FOLHELHO              CINZA       ACASTANHADO                                                
+                    227.0 ( -105.0)  49 ARENITO               CASTANHO    CLARO         GROSSEIRO       ARREDONDADO                  
+                    232.0 ( -110.0)  57 FOLHELHO              VERDE       CLARO                                                      
+                    234.0 ( -112.0)  49 ARENITO               CASTANHO    CLARO         FINO                                         
+                    237.0 ( -115.0)  57 FOLHELHO              VERDE       CLARO                                                      
+                    240.0 ( -118.0)   6 CALCILUTITO           CREME       CLARO                                                      
+                    255.0 ( -133.0)  57 FOLHELHO              CINZA       ACASTANHADO                                                
+                    258.0 ( -136.0)   6 CALCILUTITO           CREME       CLARO                                                      
+                    268.0 ( -146.0)  57 FOLHELHO              CINZA       ACASTANHADO                                                
+                    271.0 ( -149.0)  49 ARENITO               CINZA       CLARO         FINO                                         
+                    285.0 ( -163.0)  57 FOLHELHO              CINZA       ACASTANHADO                                                
+                    287.0 ( -165.0)  49 ARENITO               CINZA       CLARO         FINO                                         
+                    291.0 ( -169.0)  57 FOLHELHO              CINZA       CLARO                                                      
+                    294.0 ( -172.0)  49 ARENITO               CINZA       ESVERDEADO    MUITO FINO                                   
+                    297.0 ( -175.0)  57 FOLHELHO              CINZA       ACASTANHADO                                                
+                    300.0 ( -178.0)  49 ARENITO               CINZA       ESVERDEADO    MUITO FINO                                   
+                    304.0 ( -182.0)  57 FOLHELHO              CINZA       ACASTANHADO                                                
+                    306.0 ( -184.0)  49 ARENITO               CINZA       ESVERDEADO    MUITO FINO                                   
+                    308.0 ( -186.0)  57 FOLHELHO              CASTANHO    ESCURO                                                     
+                    311.0 ( -189.0)  49 ARENITO               CASTANHO    CLARO         FINO                                         
+                    315.0 ( -193.0)  57 FOLHELHO              CASTANHO    ESCURO                                                     
+                    318.0 ( -196.0)  49 ARENITO               CASTANHO    CLARO         FINO                                         
+                    324.0 ( -202.0)  57 FOLHELHO              CASTANHO    ESCURO                                                     
+                    328.0 ( -206.0)  49 ARENITO               CASTANHO    CLARO         FINO                                         
+                    330.0 ( -208.0)  57 FOLHELHO              CASTANHO    ESCURO                                                     
+                    332.0 ( -210.0)  49 ARENITO               CASTANHO    CLARO         FINO                                         
+                    335.0 ( -213.0)  57 FOLHELHO              CINZA       ACASTANHADO                                                
+                    340.0 ( -218.0)  49 ARENITO               CASTANHO    CLARO         FINO                                         
+                    343.0 ( -221.0)  57 FOLHELHO              CINZA       ACASTANHADO                                                
+                    352.0 ( -230.0)  49 ARENITO               CASTANHO    CLARO         MEDIO           SUBANGULAR                   
+                    358.0 ( -236.0)  57 FOLHELHO              CINZA       ACASTANHADO                                                
+                    363.0 ( -241.0)  49 ARENITO               CASTANHO    CLARO         MEDIO           SUBANGULAR                   
+                    367.0 ( -245.0)  57 FOLHELHO              CINZA       ACASTANHADO                                                
+                    370.0 ( -248.0)  49 ARENITO               CASTANHO    CLARO         GROSSEIRO       SUBANGULAR                   
+                    372.0 ( -250.0)   6 CALCILUTITO           CINZA       CLARO                                                      
+                    383.0 ( -261.0)  57 FOLHELHO              CINZA       ACASTANHADO                                                
+                    387.0 ( -265.0)  49 ARENITO               CASTANHO    CLARO         FINO                                         
+                    393.0 ( -271.0)  57 FOLHELHO              CINZA       ACASTANHADO                                                
+                    398.0 ( -276.0)  49 ARENITO               CASTANHO    CLARO         FINO                                         
+                    401.0 ( -279.0)  57 FOLHELHO              CINZA       ACASTANHADO                                                
+                    403.0 ( -281.0)   6 CALCILUTITO           CREME       CLARO                                                      
+                    406.0 ( -284.0)  57 FOLHELHO              CINZA       ACASTANHADO                                                
+                    408.0 ( -286.0)   6 CALCILUTITO           CREME       CLARO                                                      
+                    417.0 ( -295.0)  57 FOLHELHO              CINZA       ACASTANHADO                                                
+                    420.0 ( -298.0)  49 ARENITO               CINZA       ESBRANQUICADO FINO                                         
+                    428.0 ( -306.0)  57 FOLHELHO              CINZA       ACASTANHADO                                                
+                    432.0 ( -310.0)  49 ARENITO               CASTANHO    CLARO         MEDIO           SUBANGULAR                   
+                    439.0 ( -317.0)  57 FOLHELHO              CINZA       ESVERDEADO                                                 
+                    442.0 ( -320.0)  49 ARENITO               CINZA       ESBRANQUICADO FINO                                         
+                    445.0 ( -323.0)  57 FOLHELHO              CASTANHO    ESCURO                                                     
+                    447.0 ( -325.0)  49 ARENITO               CINZA       ESBRANQUICADO FINO                                         
+                    450.0 ( -328.0)  57 FOLHELHO              CASTANHO    ESCURO                                                     
+                    453.0 ( -331.0)  49 ARENITO               CINZA       CLARO         FINO                                         
+                    456.0 ( -334.0)   6 CALCILUTITO           CREME       ACASTANHADO                                                
+                    465.0 ( -343.0)  57 FOLHELHO              CASTANHO    ESCURO                                                     
+                    467.0 ( -345.0)   6 CALCILUTITO           CREME       ACASTANHADO                                                
+                    473.0 ( -351.0)  57 FOLHELHO              CASTANHO    ESCURO                                                     
+                    476.0 ( -354.0)  49 ARENITO               CINZA       ESBRANQUICADO FINO                                         
+                    478.0 ( -356.0)  57 FOLHELHO              CINZA       CLARO                                                      
+                    481.0 ( -359.0)  49 ARENITO               CINZA       ESBRANQUICADO FINO                                         
+                    483.0 ( -361.0)  57 FOLHELHO              CINZA       CLARO                                                      
+                    485.0 ( -363.0)  49 ARENITO               CINZA       ESBRANQUICADO FINO                                         
+                    487.0 ( -365.0)  57 FOLHELHO              CINZA       CLARO                                                      
+                    492.0 ( -370.0)  49 ARENITO               CINZA       ESBRANQUICADO FINO                                         
+                    494.0 ( -372.0)   6 CALCILUTITO           CREME       CLARO                                                      
+                    497.0 ( -375.0)  57 FOLHELHO              CINZA       ACASTANHADO                                                
+                    500.0 ( -378.0)  49 ARENITO               CINZA       ESBRANQUICADO FINO                                         
+                    502.0 ( -380.0)  57 FOLHELHO              CINZA       ACASTANHADO                                                
+                    520.0 ( -398.0)  49 ARENITO               CINZA       ESBRANQUICADO GROSSEIRO       SUBANGULAR                   
+                    522.0 ( -400.0)   6 CALCILUTITO           CREME       CLARO                                                      
+                    532.0 ( -410.0)  49 ARENITO               CINZA       ESBRANQUICADO MUITO GROSSEIRO SUBANGULAR                   
+                    538.0 ( -416.0)  57 FOLHELHO              CINZA       ACASTANHADO                                                
+                    542.0 ( -420.0)  49 ARENITO               CINZA       ESBRANQUICADO GROSSEIRO       SUBARREDONDADO               
+                    547.0 ( -425.0)  57 FOLHELHO              CINZA       ACASTANHADO                                                
+                    552.0 ( -430.0)  49 ARENITO               CINZA       ESBRANQUICADO MEDIO           SUBARREDONDADO               
+                    555.0 ( -433.0)   6 CALCILUTITO           CREME       CLARO                                                      
+                    592.0 ( -470.0)  49 ARENITO               CINZA       ESBRANQUICADO MUITO GROSSEIRO SUBANGULAR                   
+                    595.0 ( -473.0)  57 FOLHELHO              CINZA       ACASTANHADO                                                
+                    600.0 ( -478.0)  49 ARENITO               CINZA       ESBRANQUICADO MUITO GROSSEIRO SUBANGULAR                   
+                    602.0 ( -480.0)  57 FOLHELHO              CINZA       ACASTANHADO                                                
+                    620.0 ( -498.0)  49 ARENITO               CINZA       ESBRANQUICADO MUITO GROSSEIRO SUBANGULAR                   
+                    625.0 ( -503.0)  57 FOLHELHO              CINZA       CLARO                                                      
+                    627.0 ( -505.0)   6 CALCILUTITO           CREME       ACASTANHADO                                                
+                    629.0 ( -507.0)  57 FOLHELHO              CINZA       CLARO                                                      
+                    631.0 ( -509.0)   6 CALCILUTITO           CREME       ACASTANHADO                                                
+                    635.0 ( -513.0)  49 ARENITO               CINZA       ESBRANQUICADO MEDIO           SUBANGULAR                   
+                    637.0 ( -515.0)  57 FOLHELHO              CINZA       ESVERDEADO                                                 
+                    645.0 ( -523.0)  49 ARENITO               CINZA       ESBRANQUICADO GROSSEIRO       SUBANGULAR                   
+                    649.0 ( -527.0)  57 FOLHELHO              CINZA       ESVERDEADO                                                 
+                    690.0 ( -568.0)  49 ARENITO               CINZA       ESBRANQUICADO MUITO GROSSEIRO SUBANGULAR                   
+                    697.0 ( -575.0)  57 FOLHELHO              VERDE       CLARO                                                      
+                    699.0 ( -577.0)  49 ARENITO               CINZA       ESBRANQUICADO MUITO GROSSEIRO SUBANGULAR                   
+                    702.0 ( -580.0)  57 FOLHELHO              VERDE       CLARO                                                      
+                    720.0 ( -598.0)  49 ARENITO               CINZA       ESBRANQUICADO MUITO GROSSEIRO SUBANGULAR                   
+                    724.0 ( -602.0)  57 FOLHELHO              CINZA       ESCURO                                                     
+                    728.0 ( -606.0)   6 CALCILUTITO           CREME       ACASTANHADO                                                
+                    733.0 ( -611.0)  49 ARENITO               CINZA       ESBRANQUICADO MUITO GROSSEIRO SUBANGULAR                   
+                    737.0 ( -615.0)  57 FOLHELHO              CINZA       ESVERDEADO                                                 
+                    739.0 ( -617.0)  49 ARENITO               CINZA       ESBRANQUICADO MUITO GROSSEIRO SUBANGULAR                   
+                    741.0 ( -619.0)  57 FOLHELHO              CINZA       ESVERDEADO                                                 
+                    749.0 ( -627.0)  49 ARENITO               CINZA       ESBRANQUICADO MEDIO           SUBANGULAR                   
+                    752.0 ( -630.0)  57 FOLHELHO              VERDE       CLARO                                                      
+                    756.0 ( -634.0)  49 ARENITO               CINZA       ESBRANQUICADO MUITO GROSSEIRO SUBANGULAR                   
+                    758.0 ( -636.0)  57 FOLHELHO              CINZA       ESVERDEADO                                                 
+                    760.0 ( -638.0)  49 ARENITO               CINZA       ESBRANQUICADO MEDIO           SUBANGULAR                   
+                    762.0 ( -640.0)   6 CALCILUTITO           CREME       ACASTANHADO                                                
+                    766.0 ( -644.0)  57 FOLHELHO              CINZA       ESVERDEADO                                                 
+                    768.0 ( -646.0)  49 ARENITO               CINZA       ESBRANQUICADO FINO                                         
+                    770.0 ( -648.0)  57 FOLHELHO              CINZA       ESVERDEADO                                                 
+                    772.0 ( -650.0)  49 ARENITO               CINZA       ESBRANQUICADO FINO                                         
+                    774.0 ( -652.0)  57 FOLHELHO              CINZA       ESVERDEADO    FINO                                         
+                    781.0 ( -659.0)  49 ARENITO               CINZA       ESBRANQUICADO MEDIO           SUBANGULAR                   
+                    786.0 ( -664.0)  57 FOLHELHO              CINZA       ESVERDEADO                                                 
+                    792.0 ( -670.0)   6 CALCILUTITO           VERDE       CLARO                                                      
+                    794.0 ( -672.0)  57 FOLHELHO              CINZA       ESVERDEADO                                                 
+                    810.0 ( -688.0)  49 ARENITO               CINZA       ESBRANQUICADO MUITO GROSSEIRO SUBANGULAR                   
+                    812.0 ( -690.0)  57 FOLHELHO              CINZA       ESVERDEADO                                                 
+                    815.0 ( -693.0)  49 ARENITO               CINZA       ESBRANQUICADO GROSSEIRO       SUBANGULAR                   
+                    819.0 ( -697.0)  57 FOLHELHO              CINZA       ESVERDEADO                                                 
+                    835.0 ( -713.0)  49 ARENITO               CINZA       ESBRANQUICADO GROSSEIRO       SUBANGULAR                   
+                    838.0 ( -716.0)  57 FOLHELHO              CINZA       ESVERDEADO                                                 
+                    841.0 ( -719.0)  49 ARENITO               CINZA       ESBRANQUICADO MEDIO           SUBANGULAR                   
+                    843.0 ( -721.0)  57 FOLHELHO              CINZA       ESVERDEADO                                                 
+                    846.0 ( -724.0)   6 CALCILUTITO           CREME       CLARO                                                      
+                    848.0 ( -726.0)  49 ARENITO               CINZA       ESBRANQUICADO GROSSEIRO       SUBANGULAR                   
+                    850.0 ( -728.0)  57 FOLHELHO              CINZA       ESVERDEADO                                                 
+                    860.0 ( -738.0)  49 ARENITO               CINZA       ESBRANQUICADO GROSSEIRO       SUBANGULAR                   
+                    862.0 ( -740.0)   6 CALCILUTITO           CREME       CLARO                                                      
+                    865.0 ( -743.0)  57 FOLHELHO              CINZA       ESVERDEADO                                                 
+                    867.0 ( -745.0)   6 CALCILUTITO           CREME       CLARO                                                      
+                    869.0 ( -747.0)  57 FOLHELHO              CINZA       ESVERDEADO                                                 
+                    872.0 ( -750.0)   6 CALCILUTITO           CREME       CLARO                                                      
+                    875.0 ( -753.0)  57 FOLHELHO              CINZA       ESVERDEADO                                                 
+                    877.0 ( -755.0)   6 CALCILUTITO           CREME       CLARO                                                      
+                    879.0 ( -757.0)  57 FOLHELHO              CINZA       ESVERDEADO                                                 
+                    881.0 ( -759.0)   6 CALCILUTITO           CREME       CLARO                                                      
+                    884.0 ( -762.0)  49 ARENITO               CINZA       ESBRANQUICADO FINO                                         
+                    887.0 ( -765.0)  57 FOLHELHO              CINZA       ESVERDEADO                                                 
+                    890.0 ( -768.0)  49 ARENITO               CINZA       ESBRANQUICADO FINO            SUBANGULAR                   
+                    892.0 ( -770.0)  57 FOLHELHO              CINZA       ESVERDEADO                                                 
+                    932.0 ( -810.0)  49 ARENITO               CINZA       ESBRANQUICADO MUITO GROSSEIRO SUBANGULAR                   
+                    934.0 ( -812.0)   6 CALCILUTITO           CREME       CLARO                                                      
+                    938.0 ( -816.0)  57 FOLHELHO              CINZA       ESVERDEADO                                                 
+                    942.0 ( -820.0)  49 ARENITO               CINZA       ESBRANQUICADO MEDIO           SUBANGULAR                   
+                    946.0 ( -824.0)  57 FOLHELHO              CINZA       ESVERDEADO                                                 
+                    950.0 ( -828.0)  49 ARENITO               CINZA       ESBRANQUICADO MEDIO           SUBANGULAR                   
+                    952.0 ( -830.0)  57 FOLHELHO              CINZA       ESVERDEADO                                                 
+                    956.0 ( -834.0)  49 ARENITO               CINZA       ESBRANQUICADO FINO                                         
+                    958.0 ( -836.0)  57 FOLHELHO              CINZA       ESVERDEADO                                                 
+                    972.0 ( -850.0)  49 ARENITO               CINZA       ESBRANQUICADO GROSSEIRO       SUBANGULAR                   
+                    977.0 ( -855.0)  57 FOLHELHO              CINZA       ESVERDEADO                                                 
+                    982.0 ( -860.0)   6 CALCILUTITO           CREME       CLARO                                                      
+                    984.0 ( -862.0)  57 FOLHELHO              CINZA       ESVERDEADO                                                 
+                    986.0 ( -864.0)  49 ARENITO               CINZA       ESBRANQUICADO FINO                                         
+                    988.0 ( -866.0)  57 FOLHELHO              CINZA       ESVERDEADO                                                 
+                    991.0 ( -869.0)   6 CALCILUTITO           CREME       CLARO                                                      
+                    995.0 ( -873.0)  57 FOLHELHO              CINZA       ESVERDEADO                                                 
+                    997.0 ( -875.0)   6 CALCILUTITO           CREME       CLARO                                                      
+                   1001.0 ( -879.0)  49 ARENITO               CINZA       ESBRANQUICADO GROSSEIRO       SUBANGULAR                   
+                   1004.0 ( -882.0)  57 FOLHELHO              CINZA       ESVERDEADO                                                 
+                   1007.0 ( -885.0)  49 ARENITO               CINZA       ESBRANQUICADO GROSSEIRO       SUBANGULAR                   
+                   1012.0 ( -890.0)  57 FOLHELHO              CINZA       ESVERDEADO                                                 
+                   1014.0 ( -892.0)  49 ARENITO               CINZA       ESBRANQUICADO FINO                                         
+                   1016.0 ( -894.0)   6 CALCILUTITO           CREME       CLARO                                                      
+                   1035.0 ( -913.0)  49 ARENITO               CINZA       ESBRANQUICADO GROSSEIRO       SUBANGULAR                   
+                   1037.0 ( -915.0)  57 FOLHELHO              CINZA       ESVERDEADO                                                 
+                   1047.0 ( -925.0)  49 ARENITO               CINZA       ESBRANQUICADO GROSSEIRO       SUBANGULAR                   
+                   1049.0 ( -927.0)  57 FOLHELHO              CINZA       ESVERDEADO                                                 
+                   1052.0 ( -930.0)  49 ARENITO               CINZA       ESBRANQUICADO FINO                                         
+                   1055.0 ( -933.0)  57 FOLHELHO              CINZA       ESVERDEADO                                                 
+                   1067.0 ( -945.0)  49 ARENITO               CINZA       ESBRANQUICADO FINO                                         
+                   1069.0 ( -947.0)  57 FOLHELHO              CINZA       ESVERDEADO                                                 
+                   1072.0 ( -950.0)  49 ARENITO               CINZA       ESBRANQUICADO FINO                                         
+                   1081.0 ( -959.0)  57 FOLHELHO              CINZA       ESVERDEADO                                                 
+                   1084.0 ( -962.0)  49 ARENITO               CINZA       ESBRANQUICADO FINO                                         
+                   1098.0 ( -976.0)  57 FOLHELHO              CINZA       ESVERDEADO                                                 
+                   1102.0 ( -980.0)  49 ARENITO               CINZA       CLARO         FINO                                         
+                   1113.0 ( -991.0)  57 FOLHELHO              CINZA       ESVERDEADO                                                 
+                   1116.0 ( -994.0)  54 SILTITO               CINZA       ESVERDEADO                                                 
+                   1122.0 (-1000.0)  49 ARENITO               BRANCO                    MEDIO           SUBANGULAR                   
+                   1126.0 (-1004.0)  57 FOLHELHO              CINZA       ESVERDEADO                                                 
+                   1137.0 (-1015.0)  49 ARENITO               CINZA       CLARO         FINO                                         
+                   1140.0 (-1018.0)  57 FOLHELHO              CINZA       ESVERDEADO                                                 
+                   1142.0 (-1020.0)  54 SILTITO               CINZA       ESVERDEADO                                                 
+                   1150.0 (-1028.0)  57 FOLHELHO              CINZA       ESVERDEADO                                                 
+                   1158.0 (-1036.0)  49 ARENITO               BRANCO                    GROSSEIRO       SUBARREDONDADO               
+                   1164.0 (-1042.0)  57 FOLHELHO              CINZA       ESVERDEADO                                                 
+                   1169.0 (-1047.0)  49 ARENITO               BRANCO                    MEDIO           SUBANGULAR                   
+                   1171.0 (-1049.0)  57 FOLHELHO              CINZA       ESVERDEADO                                                 
+                   1177.0 (-1055.0)  49 ARENITO               BRANCO                    MEDIO           SUBANGULAR                   
+                   1180.0 (-1058.0)  57 FOLHELHO              CINZA       ESVERDEADO                                                 
+                   1183.0 (-1061.0)  54 SILTITO               CINZA       ESVERDEADO                                                 
+                   1190.0 (-1068.0)  57 FOLHELHO              CINZA       ESVERDEADO                                                 
+                   1192.0 (-1070.0)  49 ARENITO               BRANCO                    MEDIO           SUBARREDONDADO               
+                   1194.0 (-1072.0)  54 SILTITO               CINZA       ESVERDEADO                                                 
+                   1203.0 (-1081.0)  49 ARENITO               CINZA       CLARO         FINO                                         
+                   1212.0 (-1090.0)  57 FOLHELHO              CINZA       ESVERDEADO                                                 
+                   1215.0 (-1093.0)   6 CALCILUTITO           CINZA       CLARO                                                      
+                   1222.0 (-1100.0)  57 FOLHELHO              CINZA       ESVERDEADO                                                 
+                   1225.0 (-1103.0)  54 SILTITO               CINZA       ESVERDEADO                                                 
+                   1227.0 (-1105.0)  57 FOLHELHO              CINZA       ESVERDEADO                                                 
+                   1230.0 (-1108.0)  49 ARENITO               CINZA       CLARO         MUITO FINO                                   
+                   1242.0 (-1120.0)  57 FOLHELHO              CINZA       ESVERDEADO                                                 
+                   1245.0 (-1123.0)  49 ARENITO               CINZA       CLARO         FINO                                         
+                   1248.0 (-1126.0)  57 FOLHELHO              CINZA       ESVERDEADO                                                 
+                   1254.0 (-1132.0)  49 ARENITO               CINZA       CLARO         FINO                                         
+                   1260.0 (-1138.0)  57 FOLHELHO              CINZA       ESVERDEADO                                                 
+                   1263.0 (-1141.0)  49 ARENITO               CINZA       CLARO         FINO                                         
+                   1267.0 (-1145.0)  57 FOLHELHO              CINZA       ESVERDEADO                                                 
+                   1273.0 (-1151.0)  49 ARENITO               BRANCO                    MEDIO           SUBARREDONDADO               
+                   1278.0 (-1156.0)  57 FOLHELHO              CINZA       ESVERDEADO                                                 
+                   1285.0 (-1163.0)  49 ARENITO               CINZA       CLARO         MEDIO           SUBARREDONDADO               
+                   1288.0 (-1166.0)  57 FOLHELHO              CINZA       ESVERDEADO                                                 
+                   1292.0 (-1170.0)  54 SILTITO               CINZA       CLARO                                                      
+                   1295.0 (-1173.0)  57 FOLHELHO              CINZA       ESVERDEADO                                                 
+                   1300.0 (-1178.0)  49 ARENITO               CINZA       CLARO         MEDIO           SUBARREDONDADO               
+                   1312.0 (-1190.0)  57 FOLHELHO              CINZA       ESVERDEADO                                                 
+                   1315.0 (-1193.0)   6 CALCILUTITO           CINZA       CLARO                                                      
+                   1327.0 (-1205.0)  57 FOLHELHO              CINZA       ESVERDEADO                                                 
+                   1330.0 (-1208.0)  49 ARENITO               CINZA       CLARO         MEDIO           SUBARREDONDADO               
+                   1338.0 (-1216.0)  57 FOLHELHO              CINZA       ESVERDEADO                                                 
+                   1343.0 (-1221.0)  49 ARENITO               CINZA       CLARO         FINO                                         
+                   1356.0 (-1234.0)  57 FOLHELHO              CINZA       ESVERDEADO                                                 
+                   1360.0 (-1238.0)  54 SILTITO               CINZA       CLARO                                                      
+                   1363.0 (-1241.0)  57 FOLHELHO              CINZA       ESVERDEADO                                                 
+                   1368.0 (-1246.0)  49 ARENITO               CINZA       CLARO         FINO                                         
+                   1372.0 (-1250.0)  57 FOLHELHO              CINZA       ESVERDEADO                                                 
+                   1375.0 (-1253.0)  49 ARENITO               CINZA       ESBRANQUICADO MEDIO           SUBARREDONDADO               
+                   1377.0 (-1255.0)  57 FOLHELHO              CINZA       ESVERDEADO                                                 
+                   1379.0 (-1257.0)  49 ARENITO               CINZA       ESBRANQUICADO MEDIO           SUBARREDONDADO               
+                   1382.0 (-1260.0)  57 FOLHELHO              CINZA       ESVERDEADO                                                 
+                   1388.0 (-1266.0)  49 ARENITO               CINZA       ESBRANQUICADO FINO                                         
+                   1391.0 (-1269.0)  57 FOLHELHO              CINZA       ESVERDEADO                                                 
+                   1393.0 (-1271.0)  54 SILTITO               CINZA       CLARO                                                      
+                   1396.0 (-1274.0)  49 ARENITO               CINZA       ESBRANQUICADO FINO                                         
+                   1401.0 (-1279.0)  57 FOLHELHO              CINZA       ESVERDEADO                                                 
+                   1405.0 (-1283.0)  49 ARENITO               CINZA       ESBRANQUICADO GROSSEIRO       SUBANGULAR                   
+                   1412.0 (-1290.0)  57 FOLHELHO              CINZA       ESVERDEADO                                                 
+                   1415.0 (-1293.0)  49 ARENITO               CINZA       CLARO         MEDIO           SUBARREDONDADO               
+                   1418.0 (-1296.0)  57 FOLHELHO              CINZA       ESVERDEADO                                                 
+                   1422.0 (-1300.0)  49 ARENITO               CINZA       CLARO         MEDIO           SUBANGULAR                   
+                   1427.0 (-1305.0)  57 FOLHELHO              CINZA       ESVERDEADO                                                 
+                   1432.0 (-1310.0)  49 ARENITO               CINZA       ESVERDEADO    MUITO FINO                                   
+                   1435.0 (-1313.0)  54 SILTITO               CINZA       CLARO                                                      
+                   1445.0 (-1323.0)  57 FOLHELHO              CINZA       ESVERDEADO                                                 
+                   1456.0 (-1334.0)  49 ARENITO               CINZA       CLARO         FINO                                         
+                   1460.0 (-1338.0)  57 FOLHELHO              CINZA       ESVERDEADO                                                 
+                   1466.0 (-1344.0)  49 ARENITO               CINZA       CLARO         FINO                                         
+                   1470.0 (-1348.0)  57 FOLHELHO              CASTANHO    ESCURO                                                     
+                   1473.0 (-1351.0)  54 SILTITO               CINZA       CLARO                                                      
+                   1477.0 (-1355.0)  57 FOLHELHO              CINZA       ACASTANHADO                                                
+                   1479.0 (-1357.0)   6 CALCILUTITO           CREME       ACASTANHADO                                                
+                   1482.0 (-1360.0)  54 SILTITO               CINZA       CLARO                                                      
+                   1487.0 (-1365.0)  57 FOLHELHO              CINZA       ACASTANHADO                                                
+                   1492.0 (-1370.0)  49 ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+                   1495.0 (-1373.0)  57 FOLHELHO              CINZA       ACASTANHADO                                                
+                   1499.0 (-1377.0)  49 ARENITO               CINZA       ESBRANQUICADO MEDIO           SUBARREDONDADO               
+                   1503.0 (-1381.0)  57 FOLHELHO              CINZA       ESVERDEADO                                                 
+                   1513.0 (-1391.0)  49 ARENITO               CINZA       CLARO         FINO                                         
+                   1518.0 (-1396.0)  57 FOLHELHO              CINZA       ESVERDEADO                                                 
+                   1520.0 (-1398.0)   6 CALCILUTITO           CREME       ACASTANHADO                                                
+                   1522.0 (-1400.0)  54 SILTITO               CINZA       CLARO                                                      
+                   1528.0 (-1406.0)  57 FOLHELHO              CINZA       ESVERDEADO                                                 
+                   1533.0 (-1411.0)  49 ARENITO               CINZA       CLARO         MEDIO           SUBARREDONDADO               
+                   1537.0 (-1415.0)  57 FOLHELHO              CINZA       ESVERDEADO                                                 
+                   1540.0 (-1418.0)  49 ARENITO               CINZA       CLARO         MEDIO           SUBARREDONDADO               
+                   1557.0 (-1435.0)  57 FOLHELHO              CINZA       ESVERDEADO                                                 
+                   1563.0 (-1441.0)  49 ARENITO               CINZA       ESBRANQUICADO FINO                                         
+                   1570.0 (-1448.0)  57 FOLHELHO              CINZA       ESVERDEADO                                                 
+                   1575.0 (-1453.0)  49 ARENITO               CINZA       ESBRANQUICADO FINO                                         
+                   1580.0 (-1458.0)  57 FOLHELHO              CINZA       ESVERDEADO                                                 
+                   1585.0 (-1463.0)  54 SILTITO               CINZA       CLARO                                                      
+                   1590.0 (-1468.0)  57 FOLHELHO              CINZA       ESVERDEADO                                                 
+                   1593.0 (-1471.0)  54 SILTITO               CINZA       CLARO                                                      
+                   1598.0 (-1476.0)  57 FOLHELHO              CINZA       ESVERDEADO                                                 
+                   1602.0 (-1480.0)  49 ARENITO               CINZA       ESBRANQUICADO FINO                                         
+                   1604.0 (-1482.0)  57 FOLHELHO              CINZA       ESVERDEADO                                                 
+                   1606.0 (-1484.0)  49 ARENITO               CINZA       ESBRANQUICADO FINO                                         
+                   1608.0 (-1486.0)  57 FOLHELHO              CINZA       ESVERDEADO                                                 
+                   1612.0 (-1490.0)  49 ARENITO               CINZA       ESBRANQUICADO FINO                                         
+                   1619.0 (-1497.0)  57 FOLHELHO              CINZA       ESVERDEADO                                                 
+                   1623.0 (-1501.0)  54 SILTITO               CINZA       CLARO                                                      
+                   1627.0 (-1505.0)  57 FOLHELHO              CINZA       ESCURO                                                     
+                   1630.0 (-1508.0)  54 SILTITO               CINZA       CLARO                                                      
+                   1635.0 (-1513.0)  57 FOLHELHO              CINZA       ESCURO                                                     
+                   1640.0 (-1518.0)  54 SILTITO               CINZA       CLARO                                                      
+                   1642.0 (-1520.0)  57 FOLHELHO              CINZA       ESCURO                                                     
+                   1645.0 (-1523.0)  54 SILTITO               CINZA       ESCURO                                                     
+                   1651.0 (-1529.0)  57 FOLHELHO              CINZA       ESCURO                                                     
+                   1653.0 (-1531.0)  49 ARENITO               CINZA       CLARO         MUITO FINO                                   
+                   1655.0 (-1533.0)  57 FOLHELHO              CINZA       ESCURO                                                     
+                   1658.0 (-1536.0)  49 ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+                   1660.0 (-1538.0)  57 FOLHELHO              CINZA       ESCURO                                                     
+                   1663.0 (-1541.0)  49 ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+                   1665.0 (-1543.0)  57 FOLHELHO              CINZA       ESVERDEADO                                                 
+                   1667.0 (-1545.0)  49 ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+                   1677.0 (-1555.0)  57 FOLHELHO              CINZA       ESVERDEADO                                                 
+                   1680.0 (-1558.0)  49 ARENITO               CINZA       ESBRANQUICADO FINO                                         
+                   1683.0 (-1561.0)  57 FOLHELHO              CINZA       ESVERDEADO                                                 
+                   1688.0 (-1566.0)  49 ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+                   1695.0 (-1573.0)  57 FOLHELHO              CINZA       ESCURO                                                     
+                   1698.0 (-1576.0)   6 CALCILUTITO           CASTANHO    ESCURO                                                     
+                   1702.0 (-1580.0)  49 ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+                   1712.0 (-1590.0)  57 FOLHELHO              CINZA       ESCURO                                                     
+                   1715.0 (-1593.0)   6 CALCILUTITO           CASTANHO    ESCURO                                                     
+                   1720.0 (-1598.0)  57 FOLHELHO              CINZA       ACASTANHADO                                                
+                   1723.0 (-1601.0)   6 CALCILUTITO           CASTANHO    ESCURO                                                     
+                   1729.0 (-1607.0)  57 FOLHELHO              CINZA       ESCURO                                                     
+                   1732.0 (-1610.0)  49 ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+                   1745.0 (-1623.0)  57 FOLHELHO              CINZA       ESCURO                                                     
+                   1753.0 (-1631.0)  49 ARENITO               CINZA       ESBRANQUICADO FINO                                         
+                   1758.0 (-1636.0)  57 FOLHELHO              CINZA       ESCURO                                                     
+                   1765.0 (-1643.0)  49 ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+                   1768.0 (-1646.0)  57 FOLHELHO              CINZA       ESCURO                                                     
+                   1774.0 (-1652.0)  49 ARENITO               CINZA       ESBRANQUICADO FINO                                         
+                   1778.0 (-1656.0)  54 SILTITO               CINZA       CLARO                                                      
+                   1785.0 (-1663.0)  57 FOLHELHO              CINZA       ESCURO                                                     
+                   1790.0 (-1668.0)  54 SILTITO               CINZA       CLARO                                                      
+                   1798.0 (-1676.0)  57 FOLHELHO              CINZA       ESCURO                                                     
+                   1803.0 (-1681.0)  49 ARENITO               CINZA       CLARO         MUITO FINO                                   
+                   1810.0 (-1688.0)  57 FOLHELHO              CINZA       ESCURO                                                     
+                   1815.0 (-1693.0)  49 ARENITO               CINZA       ESBRANQUICADO FINO                                         
+                   1817.0 (-1695.0)  57 FOLHELHO              CINZA       ESCURO                                                     
+                   1819.0 (-1697.0)  54 SILTITO               CINZA       ESVERDEADO                                                 
+                   1823.0 (-1701.0)   6 CALCILUTITO           CASTANHO    ESCURO                                                     
+                   1825.0 (-1703.0)  49 ARENITO               BRANCO      ACINZENTADO   FINO                                         
+                   1830.0 (-1708.0)  57 FOLHELHO              CINZA       ESCURO                                                     
+                   1833.0 (-1711.0)  54 SILTITO               CINZA       CLARO                                                      
+                   1835.0 (-1713.0)  57 FOLHELHO              CINZA       CLARO                                                      
+                   1839.0 (-1717.0)  49 ARENITO               BRANCO      ACINZENTADO   FINO                                         
+                   1847.0 (-1725.0)  57 FOLHELHO              CINZA       ESCURO                                                     
+                   1853.0 (-1731.0)  49 ARENITO               BRANCO      ACINZENTADO   FINO                                         
+                   1867.0 (-1745.0)  57 FOLHELHO              CINZA       ACASTANHADO                                                
+                   1870.0 (-1748.0)  49 ARENITO               CINZA       CLARO         FINO                                         
+                   1877.0 (-1755.0)  57 FOLHELHO              CINZA       ESCURO                                                     
+                   1881.0 (-1759.0)  54 SILTITO               CINZA       ESVERDEADO                                                 
+                   1885.0 (-1763.0)  57 FOLHELHO              CINZA       ESCURO                                                     
+                   1887.0 (-1765.0)  54 SILTITO               CINZA       ESCURO                                                     
+                   1900.0 (-1778.0)  57 FOLHELHO              CINZA       ESCURO                                                     
+                   1903.0 (-1781.0)  49 ARENITO               CINZA       CLARO         FINO                                         
+                   1908.0 (-1786.0)  57 FOLHELHO              CINZA       ESCURO                                                     
+                   1920.0 (-1798.0)  49 ARENITO               BRANCO      ACINZENTADO   FINO                                         
+                   1925.0 (-1803.0)  57 FOLHELHO              CINZA       ESCURO                                                     
+                   1928.0 (-1806.0)   6 CALCILUTITO           CINZA       ACASTANHADO                                                
+                   1932.0 (-1810.0)  57 FOLHELHO              CINZA       ESCURO                                                     
+                   1936.0 (-1814.0)  49 ARENITO               CINZA       ACASTANHADO   FINO                                         
+                   1940.0 (-1818.0)  57 FOLHELHO              CINZA       ESCURO                                                     
+                   1945.0 (-1823.0)  49 ARENITO               CINZA       ACASTANHADO   FINO                                         
+                   1958.0 (-1836.0)  57 FOLHELHO              CINZA       ESCURO                                                     
+                   1965.0 (-1843.0)  49 ARENITO               BRANCO      ACASTANHADO   MUITO FINO                                   
+                   1968.0 (-1846.0)  57 FOLHELHO              CINZA       ESCURO                                                     
+                   1971.0 (-1849.0)   6 CALCILUTITO           CINZA       ESCURO                                                     
+                   1980.0 (-1858.0)  57 FOLHELHO              CASTANHO    ESCURO                                                     
+                   1983.0 (-1861.0)   6 CALCILUTITO           CINZA       ESCURO                                                     
+                   1990.0 (-1868.0)  57 FOLHELHO              CINZA       ESCURO                                                     
+                   1993.0 (-1871.0)  54 SILTITO               CINZA       ESBRANQUICADO                                              
+                   1998.0 (-1876.0)  57 FOLHELHO              CINZA       ESCURO                                                     
+                   2002.0 (-1880.0)  49 ARENITO               CASTANHO    CLARO         FINO                                         
+                   2004.0 (-1882.0)  57 FOLHELHO              CINZA       ESCURO                                                     
+                   2008.0 (-1886.0)  49 ARENITO               CINZA       ESVERDEADO    MUITO FINO                                   
+                   2014.0 (-1892.0)  57 FOLHELHO              CINZA       ESCURO                                                     
+                   2016.0 (-1894.0)   6 CALCILUTITO           CINZA       ACASTANHADO                                                
+                   2027.0 (-1905.0)  57 FOLHELHO              CINZA       ESVERDEADO                                                 
+                   2031.0 (-1909.0)  49 ARENITO               CINZA       ESBRANQUICADO FINO                                         
+                   2033.0 (-1911.0)  57 FOLHELHO              CINZA       ESCURO                                                     
+                   2037.0 (-1915.0)  49 ARENITO               CINZA       ESVERDEADO    MUITO FINO                                   
+                   2043.0 (-1921.0)  57 FOLHELHO              CINZA       ESCURO                                                     
+                   2053.0 (-1931.0)  49 ARENITO               CINZA       ESBRANQUICADO FINO                                         
+                   2060.0 (-1938.0)  57 FOLHELHO              CINZA       ESCURO                                                     
+                   2063.0 (-1941.0)  49 ARENITO               CINZA       ESBRANQUICADO FINO                                         
+                   2073.0 (-1951.0)  57 FOLHELHO              CINZA       ESCURO                                                     
+                   2075.0 (-1953.0)  54 SILTITO               CINZA       ESVERDEADO                                                 
+                   2078.0 (-1956.0)  57 FOLHELHO              CINZA       ESCURO                                                     
+                   2082.0 (-1960.0)  49 ARENITO               CINZA       ESBRANQUICADO FINO                                         
+                   2084.0 (-1962.0)  57 FOLHELHO              CINZA       ESCURO                                                     
+                   2087.0 (-1965.0)   6 CALCILUTITO           CINZA       ACASTANHADO                                                
+                   2107.0 (-1985.0)  57 FOLHELHO              CINZA       ESCURO                                                     
+                   2110.0 (-1988.0)  49 ARENITO               CINZA       ESBRANQUICADO FINO                                         
+                   2113.0 (-1991.0)  57 FOLHELHO              CINZA       ESCURO                                                     
+                   2119.0 (-1997.0)  49 ARENITO               CINZA       ESBRANQUICADO FINO                                         
+                   2123.0 (-2001.0)  57 FOLHELHO              CINZA       ESCURO                                                     
+                   2131.0 (-2009.0)  49 ARENITO               CINZA       ESBRANQUICADO GROSSEIRO       SUBARREDONDADO               
+                   2135.0 (-2013.0)  57 FOLHELHO              CINZA       ESCURO                                                     
+                   2140.0 (-2018.0)  49 ARENITO               CINZA       ESBRANQUICADO FINO                                         
+                   2147.0 (-2025.0)  57 FOLHELHO              CINZA       ESCURO                                                     
+                   2149.0 (-2027.0)  54 SILTITO               CINZA       CLARO                                                      
+                   2152.0 (-2030.0)  57 FOLHELHO              CINZA       ESCURO                                                     
+                   2159.0 (-2037.0)  49 ARENITO               CINZA       ESVERDEADO    MUITO FINO                                   
+                   2162.0 (-2040.0)  57 FOLHELHO              CINZA       ESCURO                                                     
+                   2165.0 (-2043.0)  54 SILTITO               CINZA       CLARO                                                      
+                   2171.0 (-2049.0)  49 ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+                   2179.0 (-2057.0)  57 FOLHELHO              CINZA       ESCURO                                                     
+                   2183.0 (-2061.0)  49 ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+                   2187.0 (-2065.0)  54 SILTITO               CINZA       CLARO                                                      
+                   2189.0 (-2067.0)  49 ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+                   2193.0 (-2071.0)  54 SILTITO               CINZA       CLARO                                                      
+                   2207.0 (-2085.0)  57 FOLHELHO              CINZA       ESCURO                                                     
+                   2213.0 (-2091.0)  54 SILTITO               CASTANHO    ESCURO                                                     
+                   2226.0 (-2104.0)  57 FOLHELHO              CINZA       ESCURO                                                     
+                   2231.0 (-2109.0)  49 ARENITO               CINZA       ESBRANQUICADO FINO                                         
+                   2234.0 (-2112.0)  57 FOLHELHO              CINZA       ESCURO                                                     
+                   2237.0 (-2115.0)  54 SILTITO               CINZA       ACASTANHADO                                                
+                   2241.0 (-2119.0)  57 FOLHELHO              CINZA       ESCURO                                                     
+                   2243.0 (-2121.0)  49 ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+                   2247.0 (-2125.0)  57 FOLHELHO              CINZA       ESCURO                                                     
+                   2252.0 (-2130.0)  54 SILTITO               CINZA       ACASTANHADO                                                
+                   2259.0 (-2137.0)  49 ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+                   2263.0 (-2141.0)  54 SILTITO               CINZA       ACASTANHADO                                                
+                   2270.0 (-2148.0)  57 FOLHELHO              CINZA       ESCURO                                                     
+                   2273.0 (-2151.0)   6 CALCILUTITO           CREME       CLARO                                                      
+                   2276.0 (-2154.0)  57 FOLHELHO              CINZA       ESCURO                                                     
+                   2280.0 (-2158.0)  54 SILTITO               CINZA       ACASTANHADO                                                
+                   2309.0 (-2187.0)  57 FOLHELHO              CINZA       ESCURO                                                     
+                   2312.0 (-2190.0)   6 CALCILUTITO           CINZA       ACASTANHADO                                                
+                   2329.0 (-2207.0)  57 FOLHELHO              CINZA       ESCURO                                                     
+                   2332.0 (-2210.0)  49 ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+                   2336.0 (-2214.0)  54 SILTITO               CINZA       ACASTANHADO                                                
+                   2339.0 (-2217.0)   6 CALCILUTITO           CINZA       ACASTANHADO                                                
+                   2343.0 (-2221.0)  54 SILTITO               CINZA       ACASTANHADO                                                
+                   2347.0 (-2225.0)  49 ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+                   2373.0 (-2251.0)  57 FOLHELHO              CINZA       ESCURO                                                     
+                   2376.0 (-2254.0)  54 SILTITO               CINZA       ACASTANHADO                                                
+                   2378.0 (-2256.0)  57 FOLHELHO              CINZA       ESCURO                                                     
+                   2382.0 (-2260.0)  54 SILTITO               CINZA       ACASTANHADO                                                
+                   2386.0 (-2264.0)   6 CALCILUTITO           BRANCO                                                                 
+                   2388.0 (-2266.0)  54 SILTITO               CINZA       ACASTANHADO                                                
+                   2393.0 (-2271.0)  57 FOLHELHO              CINZA       ESCURO                                                     
+                   2398.0 (-2276.0)  54 SILTITO               CINZA       CLARO                                                      
+                   2417.0 (-2295.0)  57 FOLHELHO              CINZA       ESCURO                                                     
+                   2421.0 (-2299.0)  54 SILTITO               CINZA       ACASTANHADO                                                
+                   2424.0 (-2302.0)  57 FOLHELHO              CINZA       ESCURO                                                     
+                   2427.0 (-2305.0)  49 ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+                   2434.0 (-2312.0)  57 FOLHELHO              CINZA       ESCURO                                                     
+                   2439.0 (-2317.0)  54 SILTITO               CINZA       ACASTANHADO                                                
+                   2449.0 (-2327.0)  57 FOLHELHO              CINZA       ESCURO                                                     
+                   2452.0 (-2330.0)   6 CALCILUTITO           CASTANHO    CLARO                                                      
+                   2460.0 (-2338.0)  57 FOLHELHO              CINZA       ESCURO                                                     
+                   2464.0 (-2342.0)  49 ARENITO               CINZA       CLARO         MUITO FINO                                   
+                   2471.0 (-2349.0)  57 FOLHELHO              CINZA       ESCURO                                                     
+                   2476.0 (-2354.0)  54 SILTITO               CINZA       CLARO                                                      
+                   2482.0 (-2360.0)  57 FOLHELHO              CINZA       ESCURO                                                     
+                   2487.0 (-2365.0)   6 CALCILUTITO           CREME       CLARO                                                      
+                   2512.0 (-2390.0)  57 FOLHELHO              CINZA       ESVERDEADO                                                 
+                   2515.0 (-2393.0)  54 SILTITO               CINZA       ACASTANHADO                                                
+                   2521.0 (-2399.0)  57 FOLHELHO              CINZA       ESVERDEADO                                                 
+                   2525.0 (-2403.0)  54 SILTITO               CINZA       ACASTANHADO                                                
+                   2527.0 (-2405.0)  57 FOLHELHO              CINZA       ESCURO                                                     
+                   2530.0 (-2408.0)  54 SILTITO               CINZA       ACASTANHADO                                                
+                   2537.0 (-2415.0)  57 FOLHELHO              CINZA       ESCURO                                                     
+                   2541.0 (-2419.0)  54 SILTITO               CINZA       ACASTANHADO                                                
+                   2547.0 (-2425.0)  57 FOLHELHO              CINZA       ESCURO                                                     
+                   2550.0 (-2428.0)  49 ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+                   2553.0 (-2431.0)  57 FOLHELHO              CINZA       ESCURO                                                     
+                   2563.0 (-2441.0)  49 ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+                   2574.0 (-2452.0)  57 FOLHELHO              CINZA       ESCURO                                                     
+                   2578.0 (-2456.0)  49 ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+                   2583.0 (-2461.0)  57 FOLHELHO              CINZA       ESCURO                                                     
+                   2587.0 (-2465.0)  49 ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+                   2593.0 (-2471.0)  57 FOLHELHO              CINZA       ESVERDEADO                                                 
+                   2607.0 (-2485.0)  49 ARENITO               BRANCO                    GROSSEIRO       SUBARREDONDADO               
+                   2610.0 (-2488.0)  57 FOLHELHO              CINZA       ESVERDEADO                                                 
+                   2620.0 (-2498.0)  49 ARENITO               BRANCO                    MEDIO           SUBARREDONDADO               
+                   2626.0 (-2504.0)  57 FOLHELHO              VERMELHO    CLARO                                                      
+                   2638.0 (-2516.0)  49 ARENITO               BRANCO                    GROSSEIRO       SUBARREDONDADO               
+                   2642.0 (-2520.0)  57 FOLHELHO              CINZA       ESCURO                                                     
+                   2645.0 (-2523.0)  49 ARENITO               CINZA       ESBRANQUICADO MEDIO                                        
+                   2650.0 (-2528.0)  57 FOLHELHO              CINZA       ESCURO                                                     
+  RESUMO DAS ROCHAS ENCONTRADAS NO POCO -                                                                                            
+   6  CALCILUTITO      =   126.0 M      4.76 %                                                                                       
+  48  AREIA            =    49.0 M      1.85 %                                                                                       
+  49  ARENITO          =   992.0 M     37.49 %                                                                                       
+  54  SILTITO          =   167.0 M      6.31 %                                                                                       
+  55  ARGILA           =    22.0 M       .83 %                                                                                       
+  57  FOLHELHO         =  1290.0 M     48.75 %                                                                                       
+--------------------------------------                                          
+ ZONAS RESERVATORIO (DESENVOLVIMENTO)                                                                                                
+--------------------------------------                                          
+ COD. ZONA     FONTE DE INTERPRETACAO       TOPO / COTA     QL BASE / COTA     QL MET QL  TOPO / COTA      BASE / COTA      MOT.AUS. 
+ 742/BIT0110   A.G.P.  ANTIGO               1054.0 ( -932.0)   1075.0 ( -953.0)    A  B                                     N/REVISTO
+ 745/BIT0120   A.G.P.  ANTIGO               1080.0 ( -958.0)   1090.0 ( -968.0)    A  B                                     N/REVISTO
+ 751/BIT0210   E&P SEAL GERET/GECAR         1112.0 ( -990.0)   1121.0 ( -999.0)    A  B                                     N/REVISTO
+ COD. ZONA     FONTE DE INTERPRETACAO       TOPO / COTA     QL BASE / COTA     QL MET QL  TOPO / COTA      BASE / COTA      MOT.AUS. 
+ 754/BIT0220   A.G.P.  ANTIGO               1125.0 (-1003.0)   1137.0 (-1015.0)    A  B                                     N/REVISTO
+ 757/BIT0230   A.G.P.  ANTIGO               1149.0 (-1027.0)   1177.0 (-1055.0)    A  B                                     N/REVISTO
+ 766/BIT0240   A.G.P.  ANTIGO               1189.0 (-1067.0)   1203.0 (-1081.0)    A  B                                     N/REVISTO
+ 782/BIT0310   A.G.P.  ANTIGO               1241.0 (-1119.0)   1273.0 (-1151.0)    A  B                                     N/REVISTO
+ 787/BIT0320   A.G.P.  ANTIGO               1277.0 (-1155.0)   1300.0 (-1178.0)    A  B                                     N/REVISTO
+ 793/BIT0410   A.G.P.  ANTIGO               1362.0 (-1240.0)   1395.0 (-1273.0)    A  B                                     N/REVISTO
+ 796/BIT0420   A.G.P.  ANTIGO               1400.0 (-1278.0)   1434.0 (-1312.0)    A  B                                     N/REVISTO
+ 799/BIT0430   A.G.P.  ANTIGO               1444.0 (-1322.0)   1465.0 (-1343.0)    A  B                                     N/REVISTO
+ 805/BIT0510   A.G.P.  ANTIGO               1486.0 (-1364.0)   1500.0 (-1378.0)    A  B                                     N/REVISTO
+ 811/BIT0521   A.G.P.  ANTIGO               1507.0 (-1385.0)   1521.0 (-1399.0)    A  B                                     N/REVISTO
+ 814/BIT0522   A.G.P.  ANTIGO               1527.0 (-1405.0)   1540.0 (-1418.0)    A  B                                     N/REVISTO
+ 823/BIT0600   E&P SEAL GERET/GECAR         1555.0 (-1433.0)   1573.0 (-1451.0)    A  B                                     N/REVISTO
+ 826/BIT0710   A.G.P.  ANTIGO               1598.0 (-1476.0)   1611.0 (-1489.0)    A  B                                     N/REVISTO
+ 829/BIT0720   A.G.P.  ANTIGO               1626.0 (-1504.0)   1640.0 (-1518.0)    A  B                                     N/REVISTO
+ 832/BIT0810   A.G.P.  ANTIGO               1651.0 (-1529.0)   1667.0 (-1545.0)    A  B                                     N/REVISTO
+ 835/BIT0820   A.G.P.  ANTIGO               1676.0 (-1554.0)   1687.0 (-1565.0)    A  B                                     N/REVISTO
+ 838/BIT0910   A.G.P.  ANTIGO               1745.0 (-1623.0)   1777.0 (-1655.0)    A  B                                     N/REVISTO
+ 841/BIT0920   A.G.P.  ANTIGO               1784.0 (-1662.0)   1802.0 (-1680.0) F  A  B                                     N/REVISTO
+ 850/BIT1021   A.G.P.  ANTIGO               1810.0 (-1688.0)   1816.0 (-1694.0)    A  B                                     N/REVISTO
+ 853/BIT1022   A.G.P.  ANTIGO               1822.0 (-1700.0)   1825.0 (-1703.0)    A  B                                     N/REVISTO
+ 856/BIT1030   A.G.P.  ANTIGO               1830.0 (-1708.0)   1838.0 (-1716.0)    A  B                                     N/REVISTO
+ 859/BIT1040   E&P SEAL GERET/GECAR         1847.0 (-1725.0)   1852.0 (-1730.0)    A  B                                     N/REVISTO
+ 862/BIT1110   A.G.P.  ANTIGO               1866.0 (-1744.0)   1872.0 (-1750.0)    A  B                                     N/REVISTO
+ 865/BIT1120   A.G.P.  ANTIGO               1878.0 (-1756.0)   1881.0 (-1759.0)    A  B                                     N/REVISTO
+ 868/BIT1130   A.G.P.  ANTIGO               1887.0 (-1765.0)   1920.0 (-1798.0)    A  B                                     N/REVISTO
+ 871/BIT1140   A.G.P.  ANTIGO               1930.0 (-1808.0)   1945.0 (-1823.0)    A  B                                     N/REVISTO
+ 874/BIT1150   E&P SEAL GERET/GECAR         1958.0 (-1836.0)   1970.0 (-1848.0)    A  B                                     N/REVISTO
+ 877/BIT1210   A.G.P.  ANTIGO               1998.0 (-1876.0)   2017.0 (-1895.0)    A  B                                     N/REVISTO
+ 883/BIT1221   A.G.P.  ANTIGO               2026.0 (-1904.0)   2031.0 (-1909.0)    A  B                                     N/REVISTO
+ 886/BIT1222   E&P SEAL GERET/GECAR         2032.0 (-1910.0)   2037.0 (-1915.0)    A  B                                     N/REVISTO
+ 889/BIT1230   A.G.P.  ANTIGO               2044.0 (-1922.0)   2053.0 (-1931.0)    A  B                                     N/REVISTO
+ 892/BIT1240   A.G.P.  ANTIGO               2059.0 (-1937.0)   2062.0 (-1940.0) F  A  B                                     N/REVISTO
+ 919/BIT1350   A.G.P.  ANTIGO               2079.0 (-1957.0)   2086.0 (-1964.0)    A  B                                     N/REVISTO
+ 922/BIT1410   E&P SEAL GERET/GECAR         2106.0 (-1984.0)   2119.0 (-1997.0)    A  B                                     N/REVISTO
+ 925/BIT1420   E&P SEAL GERET/GECAR         2122.0 (-2000.0)   2131.0 (-2009.0)    A  B                                     N/REVISTO
+ 928/BIT1500   A.G.P.  ANTIGO               2225.0 (-2103.0)   2230.0 (-2108.0)    A  B                                     N/REVISTO
+ 931/BIT1610   E&P SEAL GERET/GECAR         2328.0 (-2206.0)   2338.0 (-2216.0) F  A  B                                     N/REVISTO
+ 940/BIT1640   A.G.P.  ANTIGO               2342.0 (-2220.0)   2351.0 (-2229.0)    A  B                                     N/REVISTO
+ 946/BIT1710   A.G.P.  ANTIGO               2459.0 (-2337.0)   2464.0 (-2342.0)    A  B                                     N/REVISTO
+ 949/BIT1720   A.G.P.  ANTIGO               2483.0 (-2361.0)   2486.0 (-2364.0)    A  B                                     N/REVISTO
+ 952/SER0100   A.G.P.  ANTIGO               2552.0 (-2430.0)   2563.0 (-2441.0)    A  B                                     N/REVISTO
+ 958/SER0200   A.G.P.  ANTIGO               2594.0 (-2472.0)   2650.0 (-2528.0) N  A  B                                     N/REVISTO
+
+
+                                            ========================================
+                                                      DICIONARIO DE CODIGOS
+                                            ========================================
+
+
+
+
+                                       DICIONARIO DE UNIDADES ESTRATIGRAFICAS
+                                       ======================================
+
+ METODO DE INTERPRETACAO                                                  CODIGOS DE QUALIDADE
+
+ PERFIL                                A                                  BOM                      B
+ LITOLOGIA                             B                                  REGULAR                  R
+ SISMICA                               C                                  QUESTIONAVEL             Q
+ PALEONTOLOGIA                         D                                  INFERIDO                 I
+ PERFIL E LITOLOGIA                    E                                  DADO NAO REVISTO         X
+ PERFIL E SISMICA                      F
+ PERFIL E PALENTOLOGIA                 G
+ PALEONTOLOGIA E LITOLOGIA             H
+ PALENTOLOGIA E SISMICA                I
+ PERFIL, LITOLOGIA E PALEONTOLOGIA     J
+ PERFIL, LITOLOGIA E SISMICA           K
+ PERFIL, LITO. PALEO. E SISMICA        L
+ DADO NAO REVISTO                      X
+ INFORMACAO NAO EXISTENTE              Z
+
+
+ DICIONARIO DE TIPO DE UNIDADE
+
+ UNIDADE LITOESTRATIGRAFICA                 L
+ DISCORDANCIAS                              D
+ UNIDADE CRONOESTRATIGRAFICA                C
+ UNIDADE CRONOESTRATIGRAFICA ESPECIAL       E
+ UNIDADE CRONO-SISMICA                      S
+ MARKER (CAMADA CHAVE)                      M
+ NANOFOSSIL                                 N
+ PALINOLOGIA/CHITINOZOA/AGRITARCA           P
+ OSTRACODAS                                 O
+ FORAMINIFERO                               F
+ ZONA ESTERIL-NAO AVALIADA                  X
+ AMBIENTES DEPOSICIONAIS                    T
+ DINOFLAGELADOS                             G
+
+
+
+
+                                       DICIONARIO DE INDICIOS DE HIDROCARBONETOS
+                                       =========================================
+
+ TIPO DE INDICIO                                                ORIGEM
+
+ INDICIO DE OLEO,                      O                        LITOLOGIA                     L
+ INDICIO DE GAS                        G                        FLUIDO DE PERFURACAO          F
+ INDICIO DE CONDENSADO                 C                        DETECTOR                      D
+ IND. DE BETUME/ASFALTO/OLEO MORTO     B                        KICK                          K
+ DADO NAO REVISTO                      X                        DADO NAO REVISTO              X
+
+
+ TIPO DE AMOSTRA                                                COR
+
+ CALHA                  C                                       BRANCO              BRC       1
+ TESTEMUNHO             T                                       CREME               CRM       2
+ LATERAL                L                                       CINZA               CNZ       3
+ SUBCESTA               S                                       AMARELO             AMR       4
+ NAO SE APLICA          N                                       VERDE               VRD       5
+ DADO NAO REVISTO       X                                       VERMELHO            VRM       6
+                                                                ROXO                ROX       7
+                                                                CASTANHO            CTN       8
+                                                                PRETO               PRT       9
+                                                                VARIEGADO           VRG       0
+
+
+ MODO DE OCORRENCIA DO INDICIO de HC                            TIPO DE FLUORESCENCIA
+
+ SATURACAO              S                                       TOTAL                         T
+ SUBSATURACAO           B                                       ESPARSA                       E
+ MANCHA                 M                                       PONTUAL                       P
+ EXSUDACAO              E                                       SEM FLUORESCENCIA             S
+ ODOR                   O                                       NAO SE APLICA                 N
+ NAO SE APLICA          N                                       INF. NAO EXISTENTE            Z
+ DADO NAO REVISTO       X 
+ INF. NAO EXISTENTE     Z
+
+
+ TONALIDADE                                                     VELOCIDADE DE DISSEMINACAO CORTE
+
+ CLARO             CRL       1                                  IMEDIATO                      I
+ ESCURO            ESC       2                                  MODERADO                      M
+ ALARANJADO        ALJ       3                                  PROVOCADO                     P
+ ESBRANQUIÇADO     ESB       4                                  SEM CORTE                     S
+ ACASTANHADO       ACT       5                                  NAO SE APLICA                 N
+ ACINZENTADO       ACZ       6                                  INFORMACAO NAO EXISTENTE      Z
+ ESVERDEADO        EVD       7
+ AVERMELHADO       AVM       8
+ AMARELADO         AMR       9
+ HIALINO           HIA       0
+
+
+ MODO DE DISSEMINACAO DO CORTE
+
+ AUREOLAR                    A
+ RADIAL                      R
+ NAO SE APLICA               N
+ INFORMACAO NAO EXISTENTE    Z
